@@ -1,0 +1,16 @@
+# spintax.site
+
+> Writing about AI content and spintax at scale. Every number is measured on the
+> read off the live documentation before publication and the article records the
+> date it was checked. A spintax.net project.
+
+## На русском
+
+- [Аутрич через контакт-формы: как не выглядеть спамом](https://ru.spintax.site/contact-form-outreach-without-becoming-the-spam.md): Владельцы сайтов относят до двух пятых заявок с форм к мусору, аутрич в том числе. Два способа туда попасть и бесплатное расширение, которое оставляет Send человеку.
+- [Сколько spintax в холодном письме — уже перебор: замер на 500 отправках](https://ru.spintax.site/spintax-in-cold-email-how-much-is-too-much.md): Правила Gmail и Outlook молчат о синонимах. Что спиннинг меняет в холодном письме, где перестаёт помогать и сколько групп нужно на 500 отправок в день.
+- [Scaled content abuse: что Google под этим понимает и при чём здесь spintax](https://ru.spintax.site/scaled-content-abuse-and-spintax.md): Спам-политика Google называет синонимизацию техникой обфускации. Замер на пятидесяти страницах: что спиннер с ними делает и какой тест это показывает.
+
+## Optional
+
+- [Everything, concatenated](https://ru.spintax.site/llms-full.txt): every article in one file.
+- The English articles, the MCP server and the feeds are on the apex: https://spintax.site/llms.txt.
