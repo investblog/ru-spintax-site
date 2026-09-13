@@ -1,0 +1,26 @@
+# As a condition of accessing this website, you agree to
+# abide by the following content signals:
+
+# (a)  If a content-signal = yes, you may collect content
+# for the corresponding use.
+# (b)  If a content-signal = no, you may not collect content
+# for the corresponding use.
+# (c)  If the website operator does not include a content
+# signal for a corresponding use, the website operator
+# neither grants nor restricts permission via content signal
+# with respect to the corresponding use.
+
+# More at https://contentsignals.org
+
+User-agent: *
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+Allow: /
+
+# Every article is also served as Markdown at /<slug>.md, indexed in /llms.txt.
+# The HTML page is canonical. This host sends no headers, so the mirrors are
+# excluded here instead of carrying X-Robots-Tag: noindex.
+Disallow: /*.md$
+Disallow: /llms-full.txt
+
+Sitemap: https://ru.spintax.site/sitemap.xml
