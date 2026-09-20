@@ -1,0 +1,23 @@
+{
+  "about": "Test card: one input per shape. 'expect' is the output we call correct; 'shape' is a regex the whole output must match, for inputs whose pick is random (run over seeds 1..100). 'fixedIn' is the @spintax/core version whose changelog names the fix; 'issue' is the spintax-js issue.",
+  "cases": [
+    { "id": "glued-sentence-en", "src": "The lobby is kept compact.Game categories load on demand.", "expect": "The lobby is kept compact. Game categories load on demand.", "fixedIn": "0.9.0", "issue": 79 },
+    { "id": "glued-sentence-ru", "src": "Лобби компактное.Категории игр грузятся по запросу.", "expect": "Лобби компактное. Категории игр грузятся по запросу.", "fixedIn": "0.9.0", "issue": 79 },
+    { "id": "abbreviation-ru", "src": "Слоты, покер, рулетка и т.д. и т.п. всё в одном лобби.", "expect": "Слоты, покер, рулетка и т.д. и т.п. всё в одном лобби.", "fixedIn": "0.8.0", "issue": 81 },
+    { "id": "domain-rf", "src": "Открой пример.рф сегодня.", "expect": "Открой пример.рф сегодня.", "fixedIn": "0.8.0", "issue": 81 },
+    { "id": "email-rf", "src": "Пишите на info@сайт.рф в любое время.", "expect": "Пишите на info@сайт.рф в любое время.", "fixedIn": "0.8.0", "issue": 81 },
+    { "id": "no-break-space", "src": "Цена от 5 тыс. руб. в месяц.", "expect": "Цена от 5 тыс. руб. в месяц.", "fixedIn": "0.8.0", "issue": 81 },
+    { "id": "list-variable", "src": "Providers: [<minsize=2;maxsize=3;sep=\", \";lastsep=\" and \">%list%].", "context": { "list": "Alpha|Beta|Gamma|Delta|Epsilon" }, "shape": "^Providers: (Alpha|Beta|Gamma|Delta|Epsilon)(, (Alpha|Beta|Gamma|Delta|Epsilon))? and (Alpha|Beta|Gamma|Delta|Epsilon)\\.$", "fixedIn": "0.7.0", "issue": 78 },
+    { "id": "empty-option-in-list", "src": "Games: [<sep=\", \";lastsep=\" and \">slots|{live casino|}|poker].", "shape": "^Games: (slots|live casino|poker)(, (slots|live casino|poker))?( and (slots|live casino|poker))\\.$", "fixedIn": "0.8.0", "issue": 80 },
+    { "id": "conditional-off-in-list", "src": "Games: [<sep=\", \";lastsep=\" and \">{?live?live casino}|slots|poker].", "context": { "live": "" }, "shape": "^Games: (slots|poker) and (slots|poker)\\.$", "fixedIn": "0.8.0", "issue": 80 },
+    { "id": "size-from-variable", "src": "Pick: [<minsize=%n%;maxsize=%n%;sep=\", \">alpha|beta|gamma].", "context": { "n": "1" }, "shape": "^Pick: (alpha|beta|gamma)\\.$", "fixedIn": "0.8.0", "issue": 80 },
+    { "id": "quote-after-question", "src": "When someone asks \"Is it audited?\", the answer is yes.", "expect": "When someone asks \"Is it audited?\", the answer is yes.", "fixedIn": "0.10.0", "issue": 85 },
+    { "id": "quote-after-comma", "src": "She said \"yes,\" and left.", "expect": "She said \"yes,\" and left.", "fixedIn": "0.10.0", "issue": 85 },
+    { "id": "guillemet-after-question", "src": "Он спросил «Как дела?», и ушёл.", "expect": "Он спросил «Как дела?», и ушёл.", "fixedIn": "0.10.0", "issue": 85 },
+    { "id": "bracket-after-period", "src": "We stock fruit (apples, pears, etc.) all year.", "expect": "We stock fruit (apples, pears, etc.) all year.", "fixedIn": "0.10.0", "issue": 85 },
+    { "id": "control-domain", "src": "Visit example.com today.", "expect": "Visit example.com today.", "control": true },
+    { "id": "control-aspnet", "src": "Built on ASP.NET and Node.", "expect": "Built on ASP.NET and Node.", "control": true },
+    { "id": "control-email-uppercase", "src": "Write to info@Example.COM today.", "expect": "Write to info@Example.COM today.", "control": true },
+    { "id": "cost-title-case-brand", "src": "Pay with Yandex.Money today.", "expect": "Pay with Yandex.Money today.", "cost": "0.9.0 reads a Title-case second half as a new sentence: Yandex. Money. Accepted in the changelog.", "issue": 79 }
+  ]
+}
