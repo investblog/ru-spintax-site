@@ -1,0 +1,1444 @@
+{
+  "prompts": {
+    "plain": "Write a product description for an online store. Product: Kestrel 750, an insulated water bottle. Facts: 750 ml; double-wall vacuum stainless steel; keeps drinks cold for 24 hours and hot for 12; leak-proof screw cap with a carry loop; fits most car cup holders; weighs 380 g; the lid is dishwasher-safe; five colours. About 80 words, one paragraph, plain text, no heading. Reply with the description only.",
+    "original": "Write a product description for an online store. Product: Kestrel 750, an insulated water bottle. Facts: 750 ml; double-wall vacuum stainless steel; keeps drinks cold for 24 hours and hot for 12; leak-proof screw cap with a carry loop; fits most car cup holders; weighs 380 g; the lid is dishwasher-safe; five colours. About 80 words, one paragraph, plain text, no heading. Make it original: avoid the openings, phrases and structure a typical product description would use. Reply with the description only.",
+    "batch": "Write 10 product descriptions for an online store, each clearly different from all the others in opening, structure and wording. Product: Kestrel 750, an insulated water bottle. Facts: 750 ml; double-wall vacuum stainless steel; keeps drinks cold for 24 hours and hot for 12; leak-proof screw cap with a carry loop; fits most car cup holders; weighs 380 g; the lid is dishwasher-safe; five colours. Each: About 80 words, one paragraph, plain text, no heading. Separate the descriptions with a line containing only ---. Reply with the descriptions only, no numbering."
+  },
+  "calls": {
+    "claude-haiku-4-5#3": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 keeps your beverages at the perfect temperature wherever you go. With double-wall vacuum stainless steel construction, it maintains cold drinks for 24 hours and hot drinks for 12 hours. Featuring a leak-proof screw cap with carry loop, it fits most car cup holders for easy transport. Weighing just 380 grams, this 750 ml bottle is lightweight yet durable. The dishwasher-safe lid makes cleaning effortless, and it's available in five stylish colours. Stay hydrated in comfort and style.",
+      "at": "2026-09-13T08:01:37.100Z"
+    },
+    "claude-haiku-4-5#4": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 keeps beverages at the perfect temperature all day. With double-wall vacuum stainless steel insulation, this 750 ml bottle maintains cold drinks for 24 hours and hot drinks for 12 hours. The leak-proof screw cap features a carry loop, and the compact design fits most car cup holders. Weighing just 380g, it's lightweight and portable. The dishwasher-safe lid makes cleaning effortless. Available in five stylish colours, the Kestrel 750 is your ideal daily companion.",
+      "at": "2026-09-13T08:01:40.444Z"
+    },
+    "claude-haiku-4-5#2": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is your perfect on-the-go companion for any adventure. This premium 750ml insulated water bottle features double-wall vacuum stainless steel construction that keeps cold drinks refreshing for 24 hours and hot beverages warm for 12 hours. The leak-proof screw cap with carry loop ensures convenient transport, while its compact 380g design fits most car cup holders seamlessly. The dishwasher-safe lid makes cleaning effortless, and you can choose from five stylish colours to match your personal style.",
+      "at": "2026-09-13T08:01:42.565Z"
+    },
+    "claude-haiku-4-5#1": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is a premium insulated water bottle featuring double-wall vacuum stainless steel construction that keeps drinks cold for 24 hours or hot for 12 hours. With a 750 ml capacity, it fits comfortably in most car cup holders. The leak-proof screw cap includes a practical carry loop for easy transport and weighs just 380 grams. The dishwasher-safe lid makes cleanup effortless. Available in five vibrant colours, the Kestrel 750 combines superior insulation, durability, and style for active lifestyles.",
+      "at": "2026-09-13T08:01:45.430Z"
+    },
+    "claude-haiku-4-5#7": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is a premium insulated water bottle with double-wall vacuum stainless steel construction that keeps drinks cold for 24 hours or hot for 12 hours. This 750 ml bottle weighs just 380g and fits most car cup holders for convenient on-the-go hydration. The leak-proof screw cap features a carry loop for easy transport, and the dishwasher-safe lid ensures effortless cleaning. Available in five vibrant colours, the Kestrel 750 is perfect for daily use, outdoor adventures, and office trips.",
+      "at": "2026-09-13T08:01:51.854Z"
+    },
+    "claude-haiku-4-5#6": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 keeps your beverages at the perfect temperature all day long. This double-wall vacuum stainless steel bottle maintains cold drinks for 24 hours and hot drinks for 12 hours. Featuring a leak-proof screw cap with carry loop, it fits securely in most car cup holders. At just 380 grams, it's lightweight and portable for any adventure. The dishwasher-safe lid makes cleanup effortless. Available in five vibrant colors, the Kestrel 750 combines durability and functionality for your perfect hydration companion.",
+      "at": "2026-09-13T08:01:52.731Z"
+    },
+    "claude-haiku-4-5#5": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is a premium insulated water bottle combining exceptional durability with everyday convenience. Featuring double-wall vacuum stainless steel construction, it keeps cold drinks refreshing for 24 hours and hot beverages warm for 12 hours. The leak-proof screw cap includes a carry loop for easy transport, while the compact 380g design fits most car cup holders perfectly. The dishwasher-safe lid makes cleaning effortless, and with five attractive colours available, you'll find the perfect match for your lifestyle. Stay hydrated anywhere, anytime.",
+      "at": "2026-09-13T08:01:54.658Z"
+    },
+    "claude-haiku-4-5#8": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 combines premium insulation with everyday practicality and style. Featuring double-wall vacuum stainless steel construction, it keeps cold drinks refreshing for 24 hours and hot beverages steaming for 12 hours. The leak-proof screw cap includes a convenient carry loop, while its compact design fits most car cup holders. At just 380 grams, it's lightweight and portable. The dishwasher-safe lid simplifies cleanup, and with five stylish colour options available, there's a Kestrel 750 for every lifestyle.",
+      "at": "2026-09-13T08:01:57.659Z"
+    },
+    "claude-haiku-4-5#9": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is a premium insulated water bottle designed for those who demand quality and performance. Featuring double-wall vacuum stainless steel construction, it keeps your beverages cold for up to 24 hours or hot for 12 hours. The leak-proof screw cap includes a convenient carry loop, making it perfect for on-the-go hydration. At 380 grams, it's lightweight yet durable, and fits seamlessly into most car cup holders. The dishwasher-safe lid makes cleaning effortless. Available in five vibrant colors, the Kestrel 750 is your ideal companion for any adventure.",
+      "at": "2026-09-13T08:01:59.739Z"
+    },
+    "claude-haiku-4-5#10": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is a premium insulated water bottle designed for on-the-go hydration. Built with double-wall vacuum stainless steel construction, it keeps beverages cold for 24 hours or hot for 12 hours. The leak-proof screw cap features a convenient carry loop, making it easy to attach to bags or backpacks. At 380g, it fits comfortably in most car cup holders. The dishwasher-safe lid ensures effortless cleaning, while the sleek design is available in five versatile colours to match your style.",
+      "at": "2026-09-13T08:02:01.781Z"
+    },
+    "claude-haiku-4-5#11": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is a premium insulated water bottle designed to keep your beverages at the perfect temperature all day. Featuring double-wall vacuum stainless steel construction, it maintains cold drinks for 24 hours and hot drinks for 12 hours. The leak-proof screw cap includes a convenient carry loop, making it perfect for on-the-go hydration. At just 380 g, it fits comfortably in most car cup holders. The dishwasher-safe lid ensures easy cleaning, while the sleek design comes in five stunning colors to match your style.",
+      "at": "2026-09-13T08:02:07.508Z"
+    },
+    "claude-haiku-4-5#13": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 keeps your beverages at the perfect temperature. Built with double-wall vacuum stainless steel insulation, this 750 ml water bottle maintains cold drinks for 24 hours and hot drinks for 12 hours. Its leak-proof screw cap features a carry loop, and the compact design fits most car cup holders. At just 380 grams, it's lightweight and portable. The dishwasher-safe lid simplifies cleanup, and with five vibrant color options, there's a Kestrel 750 to match any style.",
+      "at": "2026-09-13T08:02:08.222Z"
+    },
+    "claude-haiku-4-5#14": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is a premium insulated water bottle built for your active lifestyle. Featuring double-wall vacuum stainless steel construction, it keeps drinks ice-cold for 24 hours or hot for 12 hours. The leak-proof screw cap includes a convenient carry loop, while the compact 380-gram design fits perfectly in most car cup holders. The dishwasher-safe lid simplifies cleanup. Available in five striking colors, this 750 ml bottle is your ideal companion for work, gym, travel, and everyday hydration.",
+      "at": "2026-09-13T08:02:22.787Z"
+    },
+    "claude-haiku-4-5#16": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is your perfect everyday companion. This 750 ml insulated water bottle features double-wall vacuum stainless steel construction, keeping cold drinks fresh for 24 hours and hot beverages warm for 12 hours. The leak-proof screw cap includes a carry loop, while its compact 380 g design fits most car cup holders. The dishwasher-safe lid makes cleaning effortless, and choose from five vibrant colours. Perfect for the gym, office, or adventures, the Kestrel 750 delivers reliable performance and style.",
+      "at": "2026-09-13T08:02:25.816Z"
+    },
+    "claude-haiku-4-5#15": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is a premium insulated water bottle for everyday hydration. Featuring double-wall vacuum stainless steel, it keeps drinks cold for 24 hours or hot for 12 hours. The leak-proof screw cap includes a convenient carry loop and fits most car cup holders. Weighing just 380 grams, this 750 ml bottle is lightweight yet durable. The dishwasher-safe lid ensures easy maintenance, and with five stunning colors available, you can find the perfect style to match your lifestyle.",
+      "at": "2026-09-13T08:02:34.382Z"
+    },
+    "claude-haiku-4-5#17": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is a premium insulated water bottle with double-wall vacuum stainless steel construction that keeps beverages at the perfect temperature—cold for 24 hours or hot for 12 hours. Its 750 ml capacity, leak-proof screw cap, and carry loop are ideal for active lifestyles. The bottle fits most car cup holders and weighs just 380 g for easy portability. The dishwasher-safe lid ensures effortless cleaning, and it's available in five stylish colours to match your preferences.",
+      "at": "2026-09-13T08:02:34.887Z"
+    },
+    "claude-haiku-4-5#18": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 keeps beverages at the perfect temperature with premium double-wall vacuum stainless steel insulation. This 750 ml bottle maintains cold drinks for 24 hours and hot drinks for 12 hours, making it ideal for any adventure. The leak-proof screw cap features a convenient carry loop, while the compact design fits most car cup holders. Weighing just 380 g, it's lightweight yet durable. The dishwasher-safe lid simplifies cleanup. Available in five vibrant colours, the Kestrel 750 combines functionality with style.",
+      "at": "2026-09-13T08:02:39.520Z"
+    },
+    "claude-haiku-4-5#19": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 keeps your drinks at the perfect temperature for hours. This 750 ml bottle features double-wall vacuum stainless steel insulation, maintaining cold beverages for 24 hours or hot drinks for 12 hours. The leak-proof screw cap with integrated carry loop makes it perfect for on-the-go hydration, while the compact 380 g design fits effortlessly into most car cup holders. The dishwasher-safe lid ensures easy cleanup, and you can choose from five vibrant colours to match your style.",
+      "at": "2026-09-13T08:02:44.400Z"
+    },
+    "claude-haiku-4-5#12": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 keeps your drinks at the perfect temperature wherever you go. This 750 ml insulated water bottle features double-wall vacuum stainless steel construction that maintains cold drinks for 24 hours and hot beverages for 12 hours. The leak-proof screw cap includes a convenient carry loop, and its compact design fits most car cup holders. Weighing just 380 g, it's easy to carry anywhere. The dishwasher-safe lid simplifies cleanup. Available in five attractive colours to suit your personal style.",
+      "at": "2026-09-13T08:02:44.433Z"
+    },
+    "claude-haiku-4-5#21": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is a premium insulated water bottle designed for everyday use. Featuring double-wall vacuum stainless steel construction, it keeps your drinks ice-cold for 24 hours or piping hot for 12 hours. The leak-proof screw cap includes a convenient carry loop and fits most standard car cup holders. Weighing just 380 grams, it's lightweight yet exceptionally durable. The dishwasher-safe lid ensures easy cleanup. Choose from five vibrant colors and make the Kestrel 750 your perfect companion for work, travel, and adventure.",
+      "at": "2026-09-13T08:02:55.620Z"
+    },
+    "claude-haiku-4-5#23": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is a premium insulated water bottle featuring double-wall vacuum stainless steel construction that keeps beverages cold for 24 hours or hot for 12 hours. With a 750 ml capacity, leak-proof cap, and carry loop, it's perfect for any adventure. The bottle fits most car cup holders and weighs just 380 grams. The dishwasher-safe lid makes cleaning effortless. Available in five vibrant colours, the Kestrel 750 combines durability and functionality in one sleek, stylish package.",
+      "at": "2026-09-13T08:03:01.754Z"
+    },
+    "claude-haiku-4-5#22": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 insulated water bottle keeps your beverages at the perfect temperature all day long. With double-wall vacuum stainless steel construction, it maintains cold drinks for 24 hours and hot beverages for 12 hours. The leak-proof screw cap features an integrated carry loop for portability, while its lightweight 380-gram design fits most car cup holders. The dishwasher-safe lid means easy cleanup, and five vibrant color options let you choose your style. Experience reliable insulation with the Kestrel 750.",
+      "at": "2026-09-13T08:03:02.553Z"
+    },
+    "claude-haiku-4-5#24": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is a durable insulated water bottle designed for everyday use. With 750 ml capacity and double-wall vacuum stainless steel construction, it keeps drinks cold for 24 hours or hot for 12 hours. The leak-proof screw cap features a convenient carry loop, and its compact design fits most car cup holders. Weighing just 380 g, it's lightweight yet sturdy. The dishwasher-safe lid makes cleaning effortless, and the bottle is available in five stylish colours to suit your preferences.",
+      "at": "2026-09-13T08:03:07.930Z"
+    },
+    "claude-haiku-4-5#25": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is your perfect hydration companion. With a 750 ml capacity and double-wall vacuum stainless steel construction, it keeps drinks ice-cold for 24 hours or hot for 12 hours. The leak-proof screw cap features a carry loop for convenient portability. Lightweight at just 380 g, it fits most car cup holders effortlessly. The dishwasher-safe lid means easy cleanup. Available in five vibrant colours to match your style. Stay refreshed and hydrated wherever you go with Kestrel 750.",
+      "at": "2026-09-13T08:03:10.974Z"
+    },
+    "claude-haiku-4-5#26": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is a premium insulated water bottle combining durability with everyday convenience. Its double-wall vacuum stainless steel construction keeps cold drinks fresh for 24 hours and hot beverages steaming for 12 hours. The leak-proof screw cap features a convenient carry loop, while its compact design fits most car cup holders. At just 380 grams, it's lightweight yet sturdy. The dishwasher-safe lid makes cleaning effortless, and five stylish colour options let you find your perfect match.",
+      "at": "2026-09-13T08:03:16.396Z"
+    },
+    "claude-haiku-4-5#20": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is a premium insulated water bottle designed for active lifestyles. Engineered with double-wall vacuum stainless steel construction, it keeps drinks cold for up to 24 hours or hot for 12 hours. The leak-proof screw cap features a convenient carry loop for easy transport and storage. Its compact design fits securely in most car cup holders, and at 380 grams, it's wonderfully lightweight. The dishwasher-safe lid makes cleaning effortless, and the bottle is available in five beautiful colours.",
+      "at": "2026-09-13T08:03:18.594Z"
+    },
+    "claude-haiku-4-5#27": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 keeps your drinks at the perfect temperature wherever you go. This 750 ml insulated water bottle features double-wall vacuum stainless steel construction that maintains cold drinks for 24 hours or hot drinks for 12 hours. The leak-proof screw cap with convenient carry loop makes it easy to take anywhere, while its compact 380 g design fits perfectly in most car cup holders. The dishwasher-safe lid adds convenience, and five stylish colours let you match your lifestyle.",
+      "at": "2026-09-13T08:03:18.630Z"
+    },
+    "claude-haiku-4-5#28": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is a premium insulated water bottle with double-wall vacuum stainless steel construction that keeps drinks cold for 24 hours or hot for 12 hours. Its 750 ml capacity is perfect for any adventure. The leak-proof screw cap features a convenient carry loop and fits most car cup holders. Weighing just 380 g, it's lightweight yet durable. The dishwasher-safe lid makes cleanup easy, and you can choose from five vibrant colours to match your style.",
+      "at": "2026-09-13T08:03:24.311Z"
+    },
+    "claude-haiku-4-5#29": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 keeps your beverages at the perfect temperature. This insulated water bottle features double-wall vacuum stainless steel that maintains cold drinks for 24 hours and hot drinks for 12. The leak-proof screw cap with carry loop makes it perfect for travel and commuting. Weighing just 380g, it fits comfortably in most car cup holders. The dishwasher-safe lid ensures easy cleaning. Available in five colours, the Kestrel 750 combines style, functionality, and reliable temperature control for your active lifestyle.",
+      "at": "2026-09-13T08:03:28.525Z"
+    },
+    "claude-haiku-4-5#31": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 keeps your beverages at the perfect temperature with double-wall vacuum stainless steel construction, maintaining cold drinks for 24 hours and hot drinks for 12 hours. This 750 ml bottle features a leak-proof screw cap with integrated carry loop for convenient portability. Its lightweight 380 g design fits most car cup holders easily. The dishwasher-safe lid makes cleaning effortless. Available in five vibrant colours, the Kestrel 750 is your ideal companion for work, travel, or any outdoor adventure.",
+      "at": "2026-09-13T08:03:34.491Z"
+    },
+    "claude-haiku-4-5#32": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is a premium insulated water bottle designed for everyday hydration on the go. Built with double-wall vacuum stainless steel construction, it keeps your drinks ice-cold for 24 hours or piping hot for 12 hours. The leak-proof screw cap features a convenient carry loop, while its lightweight 380g design fits most car cup holders perfectly. With a dishwasher-safe lid and 750ml capacity, this reliable bottle is ideal for work, the gym, or travel. Choose from five stylish colours.",
+      "at": "2026-09-13T08:03:40.898Z"
+    },
+    "claude-haiku-4-5#30": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "Meet the Kestrel 750, your perfect hydration companion. This 750 ml insulated bottle features double-wall vacuum stainless steel construction, keeping drinks cold for 24 hours or hot for 12 hours. The leak-proof screw cap with carry loop makes it easy to transport, while its slim profile fits most car cup holders. Weighing just 380 grams, it's lightweight yet durable. The dishwasher-safe lid ensures easy cleaning, and with five stunning colors to choose from, you can find your perfect match.",
+      "at": "2026-09-13T08:03:41.021Z"
+    },
+    "claude-haiku-4-5#34": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is a premium insulated water bottle designed for everyday hydration. Built with double-wall vacuum stainless steel construction, it keeps your drinks cold for up to 24 hours or hot for 12 hours. The leak-proof screw cap features a convenient carry loop for easy transport, while the compact 380g design fits securely in most car cup holders. The dishwasher-safe lid makes cleaning effortless, and the bottle is available in five attractive colors to match your style.",
+      "at": "2026-09-13T08:03:41.404Z"
+    },
+    "claude-haiku-4-5#33": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 combines sleek design with durability. This 750 ml insulated water bottle features double-wall vacuum stainless steel to keep cold drinks refreshing for 24 hours or hot beverages steaming for 12 hours. The leak-proof screw cap includes a carry loop, and the design fits seamlessly into most car cup holders. At just 380 g, it's lightweight and portable, with a dishwasher-safe lid for easy cleaning. Available in five stunning colours, the Kestrel 750 is your perfect hydration companion.",
+      "at": "2026-09-13T08:03:49.884Z"
+    },
+    "claude-haiku-4-5#35": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is a premium insulated water bottle featuring double-wall vacuum stainless steel construction to maintain your drinks' perfect temperature. Keep beverages cold for 24 hours or hot for 12 hours. The leak-proof screw cap with carry loop ensures easy portability, while the 750 ml design fits most car cup holders. At just 380 g, it's lightweight yet durable. The dishwasher-safe lid makes cleaning effortless. Available in five colours, the Kestrel 750 is your ideal companion for work, travel, and adventure.",
+      "at": "2026-09-13T08:03:51.737Z"
+    },
+    "claude-haiku-4-5#37": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is a premium insulated water bottle designed to keep your beverages at the perfect temperature all day. Featuring double-wall vacuum stainless steel construction, it maintains cold drinks for up to 24 hours and hot beverages for 12 hours. The leak-proof screw cap includes a carry loop for portability, while the compact 380g design fits most car cup holders. The dishwasher-safe lid makes cleaning easy, and it's available in five stylish colours. Durable and built to last.",
+      "at": "2026-09-13T08:03:54.649Z"
+    },
+    "claude-haiku-4-5#39": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is a premium insulated water bottle crafted from double-wall vacuum stainless steel. With a 750 ml capacity, it keeps your drinks ice-cold for 24 hours or steaming hot for 12 hours. The leak-proof screw cap features a convenient carry loop for on-the-go hydration, and the compact 380g design fits perfectly in most car cup holders. The dishwasher-safe lid makes cleanup effortless. Choose from five vibrant colours to match your style and stay hydrated anywhere, anytime.",
+      "at": "2026-09-13T08:04:01.489Z"
+    },
+    "claude-haiku-4-5#38": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is a premium insulated water bottle featuring double-wall vacuum stainless steel construction. It keeps cold drinks refreshingly chilled for up to 24 hours and hot beverages steaming hot for 12 hours. The leak-proof screw cap with convenient carry loop is perfect for commutes and adventures, while its compact 380g design fits easily in most car cup holders. The dishwasher-safe lid ensures effortless cleaning, and five stylish colours let you choose your perfect match.",
+      "at": "2026-09-13T08:04:03.551Z"
+    },
+    "claude-haiku-4-5#36": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 combines double-wall vacuum stainless steel construction to keep your drinks cold for 24 hours or hot for 12 hours. With a generous 750 ml capacity, this bottle is ideal for daily use at work, the gym, or travel. The leak-proof screw cap includes a convenient carry loop, while the lightweight 380 g design fits most car cup holders for easy portability. The dishwasher-safe lid makes cleaning effortless, and it's available in five colours to suit any style.",
+      "at": "2026-09-13T08:04:07.295Z"
+    },
+    "claude-haiku-4-5#40": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is a premium 750 ml insulated water bottle that keeps drinks at the perfect temperature. Built with double-wall vacuum stainless steel, it maintains cold drinks for 24 hours and hot drinks for 12 hours. The leak-proof screw cap includes a carry loop for easy transport and fits most car cup holders. Weighing just 380 g, it's lightweight and portable, with a dishwasher-safe lid. Available in five vibrant colours, the Kestrel 750 is your perfect companion.",
+      "at": "2026-09-13T08:04:10.222Z"
+    },
+    "claude-haiku-4-5#41": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is a premium insulated water bottle featuring double-wall vacuum stainless steel construction that keeps beverages at the perfect temperature. Whether you prefer ice-cold drinks for 24 hours or hot beverages for 12 hours, this 750 ml bottle delivers reliable performance. The leak-proof screw cap includes a convenient carry loop, and the slim design fits most car cup holders. At just 380 grams, it's lightweight yet durable. The dishwasher-safe lid makes cleaning effortless. Available in five stunning colours.",
+      "at": "2026-09-13T08:04:13.942Z"
+    },
+    "claude-haiku-4-5#42": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 keeps your beverages at the perfect temperature all day. This 750 ml insulated water bottle features double-wall vacuum stainless steel construction that maintains cold drinks for 24 hours and hot beverages for 12 hours. The leak-proof screw cap with integrated carry loop makes it easy to transport, while its compact design fits most car cup holders. Weighing just 380 g, it's lightweight yet durable. The dishwasher-safe lid adds convenience, and you can choose from five vibrant colours.",
+      "at": "2026-09-13T08:04:15.391Z"
+    },
+    "claude-haiku-4-5#43": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 keeps your drinks at the perfect temperature with double-wall vacuum stainless steel construction. It maintains cold beverages for up to 24 hours and hot drinks for 12 hours. The leak-proof screw cap features a convenient carry loop, and its 380g design fits most car cup holders. The dishwasher-safe lid simplifies cleanup. Choose from five stylish colours. Whether commuting, at the gym, or exploring outdoors, the Kestrel 750 is your ideal companion.",
+      "at": "2026-09-13T08:04:19.315Z"
+    },
+    "claude-haiku-4-5#44": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is a premium insulated water bottle designed for everyday hydration on the go. Built with double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or hot for 12 hours. The leak-proof screw cap features a convenient carry loop for easy transport, while its compact design fits most car cup holders. Weighing just 380g, this 750ml bottle is perfectly portable without compromising durability. The dishwasher-safe lid makes cleaning effortless, and it's available in five stylish colours.",
+      "at": "2026-09-13T08:04:21.719Z"
+    },
+    "claude-haiku-4-5#46": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is a premium insulated water bottle with double-wall vacuum stainless steel construction that keeps drinks cold for 24 hours or hot for 12 hours. Its leak-proof screw cap with carry loop is perfect for on-the-go use, and the compact 750 ml size fits most car cup holders. Weighing just 380 g, it's lightweight and convenient. The dishwasher-safe lid ensures easy cleaning, and it comes in five stylish colours to match your preference.",
+      "at": "2026-09-13T08:04:24.146Z"
+    },
+    "claude-haiku-4-5#47": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is a premium insulated water bottle designed for everyday hydration. Featuring double-wall vacuum stainless steel construction, it keeps cold drinks chilled for 24 hours and hot beverages hot for 12 hours. The leak-proof screw cap with carry loop and lightweight 380g design fits seamlessly into most car cup holders. The dishwasher-safe lid makes cleaning effortless. Available in five stylish colors, the Kestrel 750 combines durability with practicality—your perfect companion for work, travel, and outdoor adventures.",
+      "at": "2026-09-13T08:04:39.050Z"
+    },
+    "claude-haiku-4-5#45": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is a premium insulated water bottle designed for your active lifestyle. With double-wall vacuum stainless steel construction, it keeps cold drinks refreshingly chilled for 24 hours and hot beverages steaming for 12 hours. The leak-proof screw cap features a convenient carry loop, while its compact 380-gram design fits perfectly into most car cup holders. The dishwasher-safe lid makes cleaning effortless, and you can choose from five beautiful colors to match your style. Stay hydrated with Kestrel 750.",
+      "at": "2026-09-13T08:04:49.451Z"
+    },
+    "claude-sonnet-5#1": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed on the go. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or piping hot for 12, so your first sip is as good as your last. The 750 ml capacity fits comfortably in most car cup holders, while the leak-proof screw cap with carry loop makes transport a breeze. At just 380 g, it's light enough for daily carry, and the dishwasher-safe lid keeps cleanup simple. Available in five colours.",
+      "at": "2026-09-13T08:04:54.087Z"
+    },
+    "claude-haiku-4-5#48": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 perfectly combines premium insulation technology with practical design and contemporary style. Featuring advanced double-wall vacuum stainless steel construction, it keeps your drinks ice-cold for up to 24 hours or steaming hot for 12 hours. The leak-proof screw cap with integrated carry loop ensures convenient, mess-free transport, while the lightweight 380g design fits seamlessly into most car cup holders for daily on-the-go use. The dishwasher-safe lid simplifies cleanup, and five stunning colors ensure your perfect match.",
+      "at": "2026-09-13T08:04:55.849Z"
+    },
+    "claude-sonnet-5#2": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed on the go. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or piping hot for 12, so your morning coffee or afternoon water stays just right. The leak-proof screw cap features a convenient carry loop, while the slim 750 ml design fits neatly into most car cup holders. At just 380 g, it's light enough to toss in any bag. The lid is dishwasher-safe for easy cleaning, and it's available in five vibrant colours to match your style.",
+      "at": "2026-09-13T08:04:59.198Z"
+    },
+    "claude-sonnet-5#3": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or piping hot for 12, so your first sip is as good as your last. The 750 ml capacity is generous without being bulky, and at just 380 g, it's easy to carry anywhere. The leak-proof screw cap features a convenient carry loop and is dishwasher-safe for effortless cleaning, while the slim design fits most car cup holders. Available in five colours to match your style.",
+      "at": "2026-09-13T08:05:00.183Z"
+    },
+    "claude-haiku-4-5#50": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 is a premium insulated water bottle featuring double-wall vacuum stainless steel construction that keeps drinks cold for 24 hours or hot for 12 hours. This 750 ml bottle comes with a leak-proof screw cap and integrated carry loop, fits most car cup holders, and weighs just 380 g for convenient portability. The dishwasher-safe lid makes cleaning effortless, while the elegant design is available in five stunning colours. Perfect for work, gym, travel, and everyday use.",
+      "at": "2026-09-13T08:05:02.665Z"
+    },
+    "claude-sonnet-5#5": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or piping hot for 12, whether you're at the gym, the office, or out on the trail. The leak-proof screw cap features a convenient carry loop for easy transport, while the slim 750 ml design fits neatly into most car cup holders. At just 380 g, it's light enough to carry anywhere. The lid is dishwasher-safe for effortless cleaning. Available in five colours to match your style.",
+      "at": "2026-09-13T08:05:05.215Z"
+    },
+    "claude-sonnet-5#4": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying hydrated in style. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or piping hot for 12, so your coffee or water stays just right from morning to evening. The 750 ml capacity fits comfortably in most car cup holders, while the leak-proof screw cap with a built-in carry loop makes it easy to take anywhere. At just 380 g, it's lightweight yet durable, with a dishwasher-safe lid for effortless cleaning. Available in five colours.",
+      "at": "2026-09-13T08:05:07.561Z"
+    },
+    "claude-haiku-4-5#49": {
+      "arm": "claude-haiku-4-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001",
+      "text": "The Kestrel 750 keeps your beverages at the perfect temperature all day. With double-wall vacuum stainless steel insulation, this 750 ml bottle maintains cold drinks for 24 hours and hot beverages for 12 hours. The leak-proof screw cap features a convenient carry loop, while the design fits most car cup holders. At just 380 g, it's lightweight and portable. The dishwasher-safe lid makes cleaning effortless. Available in five stylish colors, the Kestrel 750 is your perfect daily companion.",
+      "at": "2026-09-13T08:05:09.897Z"
+    },
+    "claude-sonnet-5#6": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your new everyday companion for hydration on the go. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or piping hot for 12, no matter where the day takes you. The 750 ml capacity is generous without being bulky, and at just 380 g, it's easy to carry. A leak-proof screw cap with a built-in carry loop makes transport simple, while the slim design fits most car cup holders. The lid is dishwasher-safe for effortless cleaning. Available in five colours.",
+      "at": "2026-09-13T08:05:11.309Z"
+    },
+    "claude-sonnet-5#8": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying hydrated in style. Crafted from double-wall vacuum stainless steel, it keeps beverages ice-cold for 24 hours or piping hot for 12, so your drink is always ready when you are. The 750 ml capacity is generous without being bulky, and at just 380 g, it's easy to carry anywhere. The leak-proof screw cap features a convenient carry loop and is dishwasher-safe for effortless cleaning, while the slim design fits most car cup holders. Available in five colours to match your personality.",
+      "at": "2026-09-13T08:05:12.557Z"
+    },
+    "claude-sonnet-5#9": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying hydrated in style. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or piping hot for 12, so your beverage stays exactly how you like it. The 750 ml capacity is generous without being bulky, and at just 380 g, it's easy to carry anywhere. The leak-proof screw cap features a convenient carry loop and is dishwasher-safe for effortless cleaning. Designed to fit most car cup holders, it's available in five vibrant colours to match your personality.",
+      "at": "2026-09-13T08:05:14.836Z"
+    },
+    "claude-sonnet-5#10": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying hydrated in style. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or steaming hot for 12, whether you're at the gym, the office, or the trail. The 750 ml capacity fits most car cup holders, while the leak-proof screw cap with a built-in carry loop makes it easy to take anywhere. At just 380 g, it's light enough for daily carry, and the dishwasher-safe lid keeps cleanup simple. Available in five colours to match your style.",
+      "at": "2026-09-13T08:05:15.444Z"
+    },
+    "claude-sonnet-5#11": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying hydrated in style. Crafted from double-wall vacuum stainless steel, it keeps beverages cold for 24 hours or hot for 12, so your drink is always ready when you are. The 750 ml capacity fits most car cup holders, while the leak-proof screw cap with a built-in carry loop makes it easy to take anywhere. At just 380 g, it's light enough for daily use, and the dishwasher-safe lid means cleanup is effortless. Available in five colours to match your style.",
+      "at": "2026-09-13T08:05:17.818Z"
+    },
+    "claude-sonnet-5#7": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying hydrated in style. Crafted from double-wall vacuum stainless steel, this 750 ml bottle keeps drinks ice-cold for 24 hours or piping hot for 12, so your beverage is always ready when you are. The leak-proof screw cap features a convenient carry loop and is dishwasher-safe for easy cleaning. At just 380 g, it's light enough for daily use, yet sized to fit most car cup holders. Available in five colours, the Kestrel 750 combines durability, performance, and style for home, work, or travel.",
+      "at": "2026-09-13T08:05:18.268Z"
+    },
+    "claude-sonnet-5#13": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or piping hot for 12, so your first sip is always as good as your last. The 750 ml capacity fits most car cup holders, while the leak-proof screw cap with a built-in carry loop makes it easy to take anywhere. At just 380 g, it's light enough for daily carry, and the dishwasher-safe lid means effortless cleanup. Available in five colours to match your style.",
+      "at": "2026-09-13T08:05:20.510Z"
+    },
+    "claude-sonnet-5#12": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed on the go. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or steaming hot for 12, so your first sip is as good as your last. The 750 ml capacity is generous without being bulky, and at just 380 g, it's easy to carry. The leak-proof screw cap features a convenient carry loop and is fully dishwasher-safe, while the slim design fits most car cup holders. Available in five colours to match your style.",
+      "at": "2026-09-13T08:05:21.397Z"
+    },
+    "claude-sonnet-5#14": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying hydrated in style. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or steaming hot for 12, whether you're at the gym, the office, or the trail. The 750 ml capacity fits most car cup holders, while the leak-proof screw cap with a built-in carry loop makes it easy to take anywhere. At just 380 g, it's light enough for daily carry, and the dishwasher-safe lid keeps cleanup simple. Available in five colours.",
+      "at": "2026-09-13T08:05:23.085Z"
+    },
+    "claude-sonnet-5#15": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your new everyday companion for staying hydrated in style. Crafted from double-wall vacuum-insulated stainless steel, this 750 ml bottle keeps drinks ice-cold for 24 hours or piping hot for 12, no matter where the day takes you. The leak-proof screw cap features a convenient carry loop for easy transport, while the slim profile fits comfortably in most car cup holders. Weighing just 380 g, it's light enough for daily carry, and the dishwasher-safe lid makes cleanup effortless. Available in five vibrant colours.",
+      "at": "2026-09-13T08:05:23.515Z"
+    },
+    "claude-sonnet-5#16": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or piping hot for 12, so your first sip is as good as your last. The 750 ml capacity fits most car cup holders, while the leak-proof screw cap with a built-in carry loop makes it easy to take anywhere. At just 380 g, it's light enough for daily carry, and the dishwasher-safe lid means effortless cleaning. Available in five colours to match your style.",
+      "at": "2026-09-13T08:05:25.835Z"
+    },
+    "claude-sonnet-5#17": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying hydrated in style. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or piping hot for 12, so your first sip is as good as your last. The 750 ml capacity fits most car cup holders, while the leak-proof screw cap with a built-in carry loop makes it easy to take anywhere. At just 380 g, it's light enough for daily use, and the dishwasher-safe lid keeps cleanup simple. Available in five colours to match your style.",
+      "at": "2026-09-13T08:05:26.936Z"
+    },
+    "claude-sonnet-5#18": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for hydration on the go. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or piping hot for 12, no matter the weather. The 750 ml capacity is generous enough for long commutes or workouts, while the leak-proof screw cap with a built-in carry loop makes transport effortless. At just 380 g, it's light to carry yet slim enough to fit most car cup holders. The lid is dishwasher-safe for easy cleaning. Available in five colours to match your style.",
+      "at": "2026-09-13T08:05:28.489Z"
+    },
+    "claude-sonnet-5#20": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your new everyday companion for staying hydrated in style. Crafted from double-wall vacuum stainless steel, it keeps beverages ice-cold for 24 hours or piping hot for 12, so your drink is always ready when you are. The 750 ml capacity is generous yet the bottle stays lightweight at just 380 g, and its slim profile slides easily into most car cup holders. The leak-proof screw cap features a convenient carry loop and is fully dishwasher-safe for effortless cleaning. Available in five vibrant colours, the Kestrel 750 is durable, versatile, and ready for any adventure.",
+      "at": "2026-09-13T08:05:31.405Z"
+    },
+    "claude-sonnet-5#21": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or steaming hot for 12, so your first sip is as good as your last. The 750 ml capacity fits most car cup holders, while the leak-proof screw cap with carry loop makes it easy to take anywhere. At just 380 g, it's light enough for daily use, and the dishwasher-safe lid simplifies cleanup. Available in five colours to match your style.",
+      "at": "2026-09-13T08:05:32.286Z"
+    },
+    "claude-sonnet-5#22": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed on the go. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or piping hot for 12, so your favorite beverage is always ready when you are. The 750 ml capacity fits most car cup holders, while the leak-proof screw cap with a built-in carry loop makes transport effortless. At just 380 g, it's light enough for daily carry, and the dishwasher-safe lid keeps cleanup simple. Available in five colors.",
+      "at": "2026-09-13T08:05:33.761Z"
+    },
+    "claude-sonnet-5#19": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or steaming hot for 12, so your first sip is as good as your last. The 750 ml capacity is generous without being bulky, and at just 380 g, it's easy to carry all day. The leak-proof screw cap has a convenient carry loop and a dishwasher-safe lid for effortless cleaning, while the slim design fits most car cup holders. Available in five colours.",
+      "at": "2026-09-13T08:05:34.526Z"
+    },
+    "claude-sonnet-5#24": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or steaming hot for 12, so your first sip is as good as your last. The 750 ml capacity is generous without being bulky, and at just 380 g, it's easy to carry anywhere. The leak-proof screw cap has a convenient carry loop and is dishwasher-safe for effortless cleaning, while the slim design fits most car cup holders. Available in five colours.",
+      "at": "2026-09-13T08:05:37.727Z"
+    },
+    "claude-sonnet-5#25": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed on the go. Crafted from double-wall vacuum stainless steel, this 750 ml bottle keeps drinks ice-cold for 24 hours or piping hot for 12, so your beverage stays just how you like it. The leak-proof screw cap features a convenient carry loop for easy transport, while the slim design fits most car cup holders effortlessly. At just 380 g, it's light enough for daily carry, and the dishwasher-safe lid makes cleanup simple. Available in five colours to match your style.",
+      "at": "2026-09-13T08:05:39.136Z"
+    },
+    "claude-sonnet-5#26": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed on the go. Crafted from double-wall vacuum stainless steel, it keeps beverages ice-cold for 24 hours or piping hot for 12, so your drink is always ready when you are. The 750 ml capacity is generous yet portable, weighing just 380 g, and slips easily into most car cup holders. A leak-proof screw cap with a convenient carry loop makes transport simple, while the dishwasher-safe lid keeps cleanup effortless. Available in five vibrant colours to match your style.",
+      "at": "2026-09-13T08:05:40.210Z"
+    },
+    "claude-sonnet-5#23": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or steaming hot for 12, no matter where the day takes you. The 750 ml capacity is generous without being bulky, and at just 380 g, it's easy to carry. The leak-proof screw cap features a convenient carry loop and is fully dishwasher-safe, while the slim profile fits most car cup holders. Available in five colours to match your style.",
+      "at": "2026-09-13T08:05:40.252Z"
+    },
+    "claude-sonnet-5#27": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed on the go. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or piping hot for 12, so your morning coffee or afternoon water stays just right. The 750 ml capacity fits most car cup holders, while the leak-proof screw cap with a built-in carry loop makes travel mess-free and convenient. At just 380 g, it's light enough for daily carry, and the dishwasher-safe lid keeps cleanup simple. Available in five vibrant colours to match your style.",
+      "at": "2026-09-13T08:05:42.892Z"
+    },
+    "claude-sonnet-5#28": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your new everyday companion for staying refreshed. Crafted from double-wall vacuum-insulated stainless steel, it keeps drinks ice-cold for 24 hours or piping hot for 12, so your beverage stays just how you like it. The 750 ml capacity is generous without being bulky, and at just 380 g, it's light enough to carry anywhere. The leak-proof screw cap features a convenient carry loop and is dishwasher-safe for easy cleaning. Slim enough to fit most car cup holders, it's available in five vibrant colours to match your style.",
+      "at": "2026-09-13T08:05:43.692Z"
+    },
+    "claude-sonnet-5#29": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed on the go. Crafted from double-wall vacuum stainless steel, this 750 ml bottle keeps drinks ice-cold for 24 hours or piping hot for 12, so your beverage is always ready when you are. The leak-proof screw cap features a convenient carry loop for easy transport, while the slim design fits most car cup holders effortlessly. At just 380 g, it's light enough for daily use, and the dishwasher-safe lid makes cleanup simple. Available in five vibrant colours.",
+      "at": "2026-09-13T08:05:45.224Z"
+    },
+    "claude-sonnet-5#31": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed on the go. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or piping hot for 12, so your beverage stays just how you like it. The 750 ml capacity is generous yet the bottle stays light at just 380 g, and its slim profile fits most car cup holders with ease. The leak-proof screw cap includes a convenient carry loop and a dishwasher-safe lid for effortless cleaning. Available in five vibrant colours to match your style.",
+      "at": "2026-09-13T08:05:48.531Z"
+    },
+    "claude-sonnet-5#30": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed on the go. Crafted from double-wall vacuum-insulated stainless steel, it holds 750 ml and keeps drinks cold for 24 hours or hot for 12. The leak-proof screw cap features a convenient carry loop, while the slim profile fits most car cup holders with ease. At just 380 g, it's light enough for daily carry, and the dishwasher-safe lid makes cleanup effortless. Available in five colours to match your style.",
+      "at": "2026-09-13T08:05:49.379Z"
+    },
+    "claude-sonnet-5#32": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or piping hot for 12, so your first sip is as satisfying as your last. The 750 ml capacity slips easily into most car cup holders, while the leak-proof screw cap with carry loop makes it simple to grip, carry, or clip on the go. At just 380 g, it's light enough for daily use, and the dishwasher-safe lid means quick, effortless cleanup. Available in five colours to match your style.",
+      "at": "2026-09-13T08:05:49.505Z"
+    },
+    "claude-sonnet-5#33": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed on the go. Crafted from double-wall vacuum-insulated stainless steel, it keeps drinks ice-cold for 24 hours or steaming hot for 12, so your first sip is as good as your last. The 750 ml capacity is generous yet light at just 380 g, and the leak-proof screw cap with a built-in carry loop makes it easy to clip, carry, and sip without spills. It slides neatly into most car cup holders, and the dishwasher-safe lid keeps cleanup effortless. Available in five colours to match your style.",
+      "at": "2026-09-13T08:05:50.829Z"
+    },
+    "claude-sonnet-5#34": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or piping hot for 12, so your coffee or water stays just right from morning to night. The 750 ml capacity is generous without being bulky, sliding easily into most car cup holders, while the leak-proof screw cap with built-in carry loop makes it simple to take anywhere. At just 380 g, it's lightweight for daily carry, and the dishwasher-safe lid means cleanup is effortless. Available in five colours.",
+      "at": "2026-09-13T08:05:53.460Z"
+    },
+    "claude-sonnet-5#35": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed on the go. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or steaming hot for 12, no matter where the day takes you. The leak-proof screw cap features a convenient carry loop for easy transport, while the slim 750 ml design fits neatly into most car cup holders. At just 380 g, it's light enough for daily carry, and the dishwasher-safe lid makes cleanup effortless. Available in five vibrant colours to match your style.",
+      "at": "2026-09-13T08:05:54.930Z"
+    },
+    "claude-sonnet-5#36": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying hydrated in style. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or piping hot for 12, so your first sip is as good as your last. The 750 ml capacity fits most car cup holders, while the leak-proof screw cap with a built-in carry loop makes it easy to take anywhere. At just 380 g, it's light enough for daily carry, and the dishwasher-safe lid means effortless cleanup. Available in five colours to match your style.",
+      "at": "2026-09-13T08:05:55.387Z"
+    },
+    "claude-sonnet-5#37": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your new everyday companion for staying refreshed. Crafted from double-wall vacuum-sealed stainless steel, this 750 ml bottle keeps drinks ice-cold for 24 hours or piping hot for 12, no matter where the day takes you. The leak-proof screw cap features a convenient carry loop for effortless transport, while the slim silhouette fits neatly into most car cup holders. At just 380 g, it's light enough for daily carry, and the dishwasher-safe lid makes cleanup simple. Available in five colours to match your style.",
+      "at": "2026-09-13T08:05:55.705Z"
+    },
+    "claude-sonnet-5#38": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or steaming hot for 12, so you're always ready for what's next. The 750 ml capacity fits most car cup holders, while the leak-proof screw cap with carry loop makes it easy to take anywhere. At just 380 g, it's light enough for daily carry, and the dishwasher-safe lid means quick, effortless cleanup. Available in five colours to match your style.",
+      "at": "2026-09-13T08:05:58.725Z"
+    },
+    "claude-sonnet-5#39": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed anywhere. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or steaming hot for 12, so your coffee or water stays just right. The 750 ml capacity is generous without being bulky, and at just 380 g, it's light enough to carry all day. The leak-proof screw cap features a convenient carry loop and is fully dishwasher-safe, while the slim design fits most car cup holders. Available in five colours to match your style.",
+      "at": "2026-09-13T08:06:00.221Z"
+    },
+    "claude-sonnet-5#40": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed on the go. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or piping hot for 12, so your first sip tastes as good as your last. The 750 ml capacity fits most car cup holders, while the leak-proof screw cap with carry loop makes travel mess-free and easy to grab. At just 380 g, it's light enough for daily carry, and the dishwasher-safe lid keeps cleanup simple. Available in five colours to match your style.",
+      "at": "2026-09-13T08:06:00.827Z"
+    },
+    "claude-sonnet-5#41": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed. Crafted from double-wall vacuum stainless steel, it keeps beverages ice-cold for 24 hours or piping hot for 12, so you're always ready for the day ahead. The leak-proof screw cap features a convenient carry loop for effortless transport, while the slim design fits neatly into most car cup holders. At just 380 g, it's light enough for daily carry, and the dishwasher-safe lid makes cleanup simple. Available in five vibrant colours, the Kestrel 750 pairs durability with style.",
+      "at": "2026-09-13T08:06:01.557Z"
+    },
+    "claude-sonnet-5#42": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your new everyday companion for staying refreshed. Crafted from double-wall vacuum stainless steel, it keeps beverages cold for 24 hours or hot for 12, so your drink is always ready when you are. The 750 ml capacity is generous without being bulky, and at just 380 g, it's easy to carry. The leak-proof screw cap features a convenient carry loop and is dishwasher-safe for effortless cleaning. Slim enough to fit most car cup holders, it's built for life on the move. Available in five colours to match your style.",
+      "at": "2026-09-13T08:06:03.312Z"
+    },
+    "claude-sonnet-5#43": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed on the go. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or steaming hot for 12, whether you're hiking, commuting, or hitting the gym. The 750 ml capacity strikes the perfect balance between portability and hydration, while the leak-proof screw cap with a built-in carry loop makes transport effortless. At just 380 g, it's light enough to carry anywhere, and it slides easily into most car cup holders. The lid is dishwasher-safe for quick cleanup. Available in five vibrant colours.",
+      "at": "2026-09-13T08:06:06.144Z"
+    },
+    "claude-sonnet-5#45": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed on the go. Crafted from double-wall vacuum stainless steel, it keeps beverages cold for 24 hours or hot for 12, so your drink is always ready when you are. The 750 ml capacity strikes the perfect balance between portability and volume, while the leak-proof screw cap with carry loop makes transport effortless. At just 380 g and sized to fit most car cup holders, it slips easily into bags or dashboards alike. The dishwasher-safe lid simplifies cleanup, and five colours let you pick your style.",
+      "at": "2026-09-13T08:06:08.704Z"
+    },
+    "claude-sonnet-5#44": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed on the go. Crafted from double-wall vacuum-insulated stainless steel, it keeps drinks ice-cold for 24 hours or piping hot for 12, so your first sip is as good as your last. The 750 ml capacity is generous yet the 380 g build stays light in hand, while the leak-proof screw cap with carry loop makes transport effortless. Designed to fit most car cup holders, it slides easily into daily life. The lid is dishwasher-safe for quick cleanup, and it comes in five vibrant colours to suit your style.",
+      "at": "2026-09-13T08:06:08.953Z"
+    },
+    "claude-sonnet-5#47": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying hydrated in style. Crafted from double-wall vacuum stainless steel, it locks in cold drinks for 24 hours and hot beverages for 12, so your coffee or water stays exactly how you like it. The 750 ml capacity fits most car cup holders, while the leak-proof screw cap with carry loop makes it easy to take anywhere. At just 380 g, it's light enough for daily use, and the dishwasher-safe lid keeps cleanup simple. Available in five colours to match your style.",
+      "at": "2026-09-13T08:06:11.314Z"
+    },
+    "claude-sonnet-5#46": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed on the go. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or steaming hot for 12, whether you're hiking, commuting, or working out. The 750 ml capacity offers ample hydration without the bulk, weighing just 380 g. A leak-proof screw cap with a convenient carry loop makes transport easy, while the slim design fits most car cup holders. The lid is dishwasher-safe for effortless cleaning. Available in five vibrant colours to match your style.",
+      "at": "2026-09-13T08:06:12.420Z"
+    },
+    "claude-sonnet-5#48": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your new everyday companion for staying refreshed on the go. Crafted from double-wall vacuum-insulated stainless steel, it keeps drinks ice-cold for 24 hours or piping hot for 12, so your first sip tastes as good as your last. The 750 ml capacity is generous without being bulky, and at just 380 g, it's light enough to toss in any bag. The leak-proof screw cap has a convenient carry loop and is dishwasher-safe, while the slim design fits most car cup holders. Available in five colours.",
+      "at": "2026-09-13T08:06:13.525Z"
+    },
+    "claude-sonnet-5#49": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed on the go. Crafted from double-wall vacuum stainless steel, this 750 ml bottle keeps beverages ice-cold for 24 hours or piping hot for 12, so you're always ready for whatever the day brings. The leak-proof screw cap features a convenient carry loop and is dishwasher-safe for easy cleaning. At just 380 g, it's light enough to carry anywhere and fits neatly into most car cup holders. Available in five vibrant colours, the Kestrel 750 blends durability, function, and style effortlessly.",
+      "at": "2026-09-13T08:06:14.406Z"
+    },
+    "claude-sonnet-5#50": {
+      "arm": "claude-sonnet-5",
+      "prompt": "plain",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Meet the Kestrel 750, your everyday companion for staying refreshed on the go. Crafted from double-wall vacuum stainless steel, it keeps drinks ice-cold for 24 hours or piping hot for 12, so your first sip is as good as your last. The 750 ml capacity is generous without being bulky, and at just 380 g, it's easy to carry anywhere. The leak-proof screw cap includes a convenient carry loop and a dishwasher-safe lid for effortless cleaning, while the slim design fits most car cup holders. Available in five colours.",
+      "at": "2026-09-13T08:06:18.725Z"
+    },
+    "gpt-5.6-sol#2": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever the day takes you with the Kestrel 750 insulated water bottle. Its 750 ml double-wall vacuum stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a convenient carry loop, while the bottle fits most car cup holders for easy travel. Weighing just 380 g, it’s practical for daily use. The lid is dishwasher-safe, and the bottle is available in five colours.",
+      "at": "2026-09-13T08:06:31.618Z"
+    },
+    "gpt-5.6-sol#3": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Meet the Kestrel 750, an insulated water bottle built for everyday adventures. Its 750 ml double-wall vacuum stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a handy carry loop, while the streamlined bottle fits most car cup holders. Weighing just 380 g, it is easy to take anywhere. The lid is dishwasher-safe for simple cleaning, and five colours let you choose your perfect style.",
+      "at": "2026-09-13T08:06:39.405Z"
+    },
+    "gpt-5.6-sol#4": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever the day takes you with the Kestrel 750 insulated water bottle. Its 750 ml double-wall vacuum stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap includes a convenient carry loop, while the streamlined bottle fits most car cup holders. Weighing just 380 g, it’s easy to take on commutes, workouts, and adventures. The lid is dishwasher-safe, and the bottle comes in five colours.",
+      "at": "2026-09-13T08:06:40.804Z"
+    },
+    "gpt-5.6-sol#1": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever you go with the Kestrel 750 insulated water bottle. Its 750 ml capacity and double-wall vacuum stainless steel construction keep drinks cold for up to 24 hours or hot for up to 12. A leak-proof screw cap helps prevent spills, while the built-in carry loop makes it easy to grab and go. Weighing just 380 g, it fits most car cup holders. The lid is dishwasher-safe, and the bottle comes in five stylish colours.",
+      "at": "2026-09-13T08:06:45.300Z"
+    },
+    "gpt-5.6-sol#5": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Meet the Kestrel 750, a reliable insulated water bottle built for everyday adventures. Its 750 ml double-wall vacuum stainless-steel body keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a handy carry loop, while the streamlined shape fits most car cup holders. Weighing just 380 g, it’s easy to take anywhere. The lid is dishwasher-safe for simple cleaning, and the bottle comes in five colours to suit your style.",
+      "at": "2026-09-13T08:06:46.480Z"
+    },
+    "gpt-5.6-sol#7": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Meet the Kestrel 750, a durable insulated water bottle designed for everyday adventures. Its 750 ml double-wall vacuum stainless steel body keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a convenient carry loop, while the streamlined shape fits most car cup holders. Weighing just 380 g, it’s easy to take anywhere. The lid is dishwasher-safe for simple cleaning, and five colours let you choose your perfect match.",
+      "at": "2026-09-13T08:06:55.393Z"
+    },
+    "gpt-5.6-sol#6": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Meet the Kestrel 750, an insulated water bottle built for everyday adventures. Its 750 ml double-wall vacuum stainless-steel body keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a handy carry loop, while the streamlined shape fits most car cup holders. Weighing just 380 g, it’s easy to take anywhere. The lid is dishwasher-safe for simple cleaning, and five colours let you choose your perfect match.",
+      "at": "2026-09-13T08:06:56.958Z"
+    },
+    "gpt-5.6-sol#8": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever the day takes you with the Kestrel 750 insulated water bottle. Its 750 ml double-wall vacuum stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap has a convenient carry loop, while the bottle fits most car cup holders for easy travel. Weighing just 380 g, it’s practical for everyday use. The lid is dishwasher-safe, and the bottle comes in five colours.",
+      "at": "2026-09-13T08:06:59.974Z"
+    },
+    "gpt-5.6-sol#9": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever the day takes you with the Kestrel 750 insulated water bottle. Its 750 ml double-wall vacuum stainless-steel design keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a convenient carry loop, while the bottle fits most car cup holders for easy travel. Weighing just 380 g, it’s practical for everyday use. The lid is dishwasher-safe, and five colours let you choose your favourite.",
+      "at": "2026-09-13T08:07:03.196Z"
+    },
+    "gpt-5.6-sol#10": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever the day takes you with the Kestrel 750 insulated water bottle. Its 750 ml, double-wall vacuum stainless-steel design keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap has a convenient carry loop, while the streamlined bottle fits most car cup holders. Weighing just 380 g, it’s easy to take on commutes, workouts, and adventures. The lid is dishwasher-safe, and the bottle comes in five colours.",
+      "at": "2026-09-13T08:07:10.792Z"
+    },
+    "gpt-5.6-sol#11": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Meet the Kestrel 750, an insulated water bottle made for everyday adventures. Its double-wall vacuum stainless steel construction keeps drinks cold for up to 24 hours or hot for up to 12 hours. The leak-proof screw cap includes a handy carry loop, while the slim shape fits most car cup holders. At just 380 g, it’s easy to take anywhere. The lid is dishwasher-safe for simple cleaning, and five colours let you choose your favourite style.",
+      "at": "2026-09-13T08:07:17.175Z"
+    },
+    "gpt-5.6-sol#12": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever the day takes you with the Kestrel 750 insulated water bottle. Its 750 ml double-wall vacuum stainless steel body keeps drinks cold for up to 24 hours or hot for up to 12. A leak-proof screw cap helps prevent spills, while the built-in carry loop makes it easy to grab and go. Weighing just 380 g, it fits most car cup holders. The lid is dishwasher-safe, and the bottle comes in five colours.",
+      "at": "2026-09-13T08:07:17.673Z"
+    },
+    "gpt-5.6-sol#13": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever the day takes you with the Kestrel 750 insulated water bottle. Its 750 ml capacity and double-wall vacuum stainless steel construction keep drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a convenient carry loop, while the streamlined shape fits most car cup holders. Weighing just 380 g, it is easy to take anywhere. The lid is dishwasher-safe, and the bottle comes in five colours.",
+      "at": "2026-09-13T08:07:19.740Z"
+    },
+    "gpt-5.6-sol#14": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever the day takes you with the Kestrel 750 insulated water bottle. Its 750 ml double-wall vacuum stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a convenient carry loop, while the bottle fits most car cup holders. Weighing just 380 g, it’s easy to take on commutes, workouts, or adventures. The lid is dishwasher-safe, and five colours let you choose your favourite.",
+      "at": "2026-09-13T08:07:26.244Z"
+    },
+    "gpt-5.6-sol#15": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever the day takes you with the Kestrel 750 insulated water bottle. Its 750 ml double-wall vacuum stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a convenient carry loop, while the streamlined bottle fits most car cup holders. Weighing just 380 g, it’s easy to take anywhere. The lid is dishwasher-safe, and the bottle is available in five colours.",
+      "at": "2026-09-13T08:07:31.763Z"
+    },
+    "gpt-5.6-sol#17": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Meet the Kestrel 750, an insulated water bottle built for everyday adventures. Its 750 ml double-wall vacuum stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a convenient carry loop, while the streamlined shape fits most car cup holders. Weighing just 380 g, it’s easy to take anywhere. The lid is dishwasher-safe for simple cleaning, and five colour options let you choose your perfect match.",
+      "at": "2026-09-13T08:07:39.114Z"
+    },
+    "gpt-5.6-sol#18": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Meet the Kestrel 750, a dependable insulated bottle built for everyday adventures. Its 750 ml double-wall vacuum stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a handy carry loop, while the slim shape fits most car cup holders. Weighing just 380 g, it’s easy to take anywhere. The lid is dishwasher-safe for simple cleaning, and five colours let you choose your perfect match.",
+      "at": "2026-09-13T08:07:39.569Z"
+    },
+    "gpt-5.6-sol#16": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever the day takes you with the Kestrel 750. This 750 ml insulated bottle features double-wall vacuum stainless steel to keep drinks cold for 24 hours or hot for 12. A leak-proof screw cap helps prevent spills, while the integrated carry loop makes it easy to grab and go. Weighing just 380 g, it fits most car cup holders. The lid is dishwasher-safe, and five colours let you choose your favourite.",
+      "at": "2026-09-13T08:07:44.687Z"
+    },
+    "gpt-5.6-sol#19": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever the day takes you with the Kestrel 750 insulated water bottle. Its 750 ml, double-wall vacuum stainless-steel design keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a convenient carry loop, while the streamlined bottle fits most car cup holders. Weighing just 380 g, it’s easy to take anywhere. The lid is dishwasher-safe for simple cleaning, and the bottle comes in five colours.",
+      "at": "2026-09-13T08:07:48.680Z"
+    },
+    "gpt-5.6-sol#21": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Keep drinks at the perfect temperature wherever you go with the Kestrel 750 insulated water bottle. Its 750 ml double-wall vacuum stainless steel design keeps beverages cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a convenient carry loop, while the bottle fits most car cup holders for easy travel. Weighing just 380 g, it’s practical for everyday use. The lid is dishwasher-safe, and the bottle comes in five colours.",
+      "at": "2026-09-13T08:07:54.175Z"
+    },
+    "gpt-5.6-sol#22": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever the day takes you with the Kestrel 750 insulated water bottle. Its 750 ml double-wall vacuum stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a handy carry loop, while the streamlined bottle fits most car cup holders. Weighing just 380 g, it is easy to take anywhere. The lid is dishwasher-safe, and the bottle comes in five colours.",
+      "at": "2026-09-13T08:08:00.922Z"
+    },
+    "gpt-5.6-sol#23": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Meet the Kestrel 750, an insulated water bottle built for everyday adventures. Its 750 ml double-wall vacuum stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a handy carry loop, while the bottle fits most car cup holders. Weighing just 380 g, it is easy to take anywhere. The lid is dishwasher-safe for simple cleaning, and the Kestrel 750 comes in five colours.",
+      "at": "2026-09-13T08:08:01.254Z"
+    },
+    "gpt-5.6-sol#20": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever the day takes you with the Kestrel 750, a sleek insulated water bottle built for everyday use. Its double-wall vacuum stainless steel construction keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap includes a convenient carry loop, while the streamlined shape fits most car cup holders. Weighing 380 g and available in five colours, it combines reliable performance with easy portability. The lid is dishwasher-safe.",
+      "at": "2026-09-13T08:08:01.767Z"
+    },
+    "gpt-5.6-sol#24": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever the day takes you with the Kestrel 750 insulated water bottle. Its 750 ml double-wall vacuum stainless-steel body keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap has a handy carry loop, while the streamlined shape fits most car cup holders. Weighing just 380 g, it is easy to take anywhere. The lid is dishwasher-safe, and the bottle is available in five colours.",
+      "at": "2026-09-13T08:08:09.763Z"
+    },
+    "gpt-5.6-sol#25": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Meet the Kestrel 750, an insulated water bottle built for everyday adventures. Its 750 ml double-wall vacuum stainless steel body keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap includes a convenient carry loop, while the streamlined shape fits most car cup holders. Weighing just 380 g, it’s easy to take anywhere. The lid is dishwasher-safe for simple cleaning, and the bottle is available in five colours.",
+      "at": "2026-09-13T08:08:16.186Z"
+    },
+    "gpt-5.6-sol#26": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Meet the Kestrel 750, a durable insulated bottle built for everyday adventures. Its 750 ml double-wall vacuum stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a practical carry loop, while the streamlined shape fits most car cup holders. Weighing just 380 g, it’s easy to take anywhere. The lid is dishwasher-safe for simple cleaning, and five colours let you choose your perfect match.",
+      "at": "2026-09-13T08:08:17.162Z"
+    },
+    "gpt-5.6-sol#27": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Take reliable hydration wherever you go with the Kestrel 750 insulated water bottle. Its 750 ml capacity and double-wall vacuum stainless steel construction keep drinks cold for up to 24 hours or hot for up to 12. A leak-proof screw cap helps prevent spills, while the built-in carry loop makes it easy to grab and go. Weighing 380 g, it fits most car cup holders. The lid is dishwasher-safe, and the bottle comes in five colours.",
+      "at": "2026-09-13T08:08:24.166Z"
+    },
+    "gpt-5.6-sol#28": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Meet the Kestrel 750, an insulated water bottle built for everyday adventures. Its 750 ml double-wall vacuum stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a convenient carry loop, while the bottle fits most car cup holders for easy travel. Weighing just 380 g, it’s simple to take anywhere. The lid is dishwasher-safe, and five colours let you choose your perfect match.",
+      "at": "2026-09-13T08:08:25.738Z"
+    },
+    "gpt-5.6-sol#29": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever the day takes you with the Kestrel 750 insulated water bottle. Its 750 ml double-wall vacuum stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a practical carry loop, while the slim shape fits most car cup holders. Weighing just 380 g, it’s easy to take anywhere. The lid is dishwasher-safe, and the bottle comes in five colours.",
+      "at": "2026-09-13T08:08:34.968Z"
+    },
+    "gpt-5.6-sol#30": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Meet the Kestrel 750, a durable insulated water bottle built for everyday adventures. Its 750 ml double-wall vacuum stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a handy carry loop, while the bottle fits most car cup holders for easy travel. Weighing just 380 g, it’s practical to take anywhere. The lid is dishwasher-safe, and the bottle comes in five colours.",
+      "at": "2026-09-13T08:08:37.195Z"
+    },
+    "gpt-5.6-sol#32": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever the day takes you with the Kestrel 750 insulated water bottle. Its 750 ml double-wall vacuum stainless steel design keeps drinks cold for 24 hours or hot for 12. The leak-proof screw cap features a convenient carry loop, while the streamlined shape fits most car cup holders. Weighing just 380 g, it’s easy to take on commutes, workouts, and adventures. The lid is dishwasher-safe, and the bottle comes in five colours.",
+      "at": "2026-09-13T08:08:43.654Z"
+    },
+    "gpt-5.6-sol#31": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever the day takes you with the Kestrel 750. This sleek 750 ml insulated bottle is made from double-wall vacuum stainless steel, keeping drinks cold for up to 24 hours or hot for up to 12. Its leak-proof screw cap has a convenient carry loop, while the streamlined shape fits most car cup holders. Weighing just 380 g, it’s easy to take anywhere. The dishwasher-safe lid makes cleaning simple, and five colours let you choose your favourite shade.",
+      "at": "2026-09-13T08:08:44.019Z"
+    },
+    "gpt-5.6-sol#33": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever the day takes you with the Kestrel 750 insulated water bottle. Its 750 ml double-wall vacuum stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12. A leak-proof screw cap prevents spills, while the built-in carry loop makes it easy to grab and go. Weighing just 380 g, it fits most car cup holders. The lid is dishwasher-safe, and the bottle comes in five colours.",
+      "at": "2026-09-13T08:08:49.325Z"
+    },
+    "gpt-5.6-sol#34": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Meet the Kestrel 750, a reliable insulated water bottle built for busy days and outdoor adventures. Its 750 ml double-wall vacuum stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a handy carry loop, while the bottle fits most car cup holders. Weighing just 380 g, it’s easy to take anywhere. The lid is dishwasher-safe, and five colours let you choose your favourite.",
+      "at": "2026-09-13T08:08:52.289Z"
+    },
+    "gpt-5.6-sol#35": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Meet the Kestrel 750, a reliable insulated water bottle for commutes, workouts and everyday adventures. Its 750 ml double-wall vacuum stainless-steel body keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap includes a handy carry loop, while the streamlined shape fits most car cup holders. Weighing just 380 g, it’s easy to take anywhere. The lid is dishwasher-safe for simple cleaning, and five colours let you choose your style.",
+      "at": "2026-09-13T08:08:58.096Z"
+    },
+    "gpt-5.6-sol#36": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever the day takes you with the Kestrel 750 insulated water bottle. Its double-wall vacuum stainless steel construction keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a convenient carry loop, while the streamlined shape fits most car cup holders. With a 750 ml capacity and a weight of just 380 g, it’s ideal for everyday use. The lid is dishwasher-safe, and five colours are available.",
+      "at": "2026-09-13T08:08:58.818Z"
+    },
+    "gpt-5.6-sol#37": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever the day takes you with the Kestrel 750 insulated water bottle. Its 750 ml double-wall vacuum stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a convenient carry loop, while the bottle fits most car cup holders. Weighing just 380 g, it’s easy to take on commutes, workouts, or adventures. The lid is dishwasher-safe, and five colours let you choose your favourite.",
+      "at": "2026-09-13T08:09:04.565Z"
+    },
+    "gpt-5.6-sol#39": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever the day takes you with the Kestrel 750 insulated water bottle. Its 750 ml double-wall vacuum stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a convenient carry loop, while the streamlined bottle fits most car cup holders. Weighing just 380 g, it’s easy to take anywhere. The lid is dishwasher-safe for simple cleaning, and five colours let you choose your favourite.",
+      "at": "2026-09-13T08:09:10.291Z"
+    },
+    "gpt-5.6-sol#38": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Meet the Kestrel 750, an insulated water bottle built for busy days and everyday adventures. Its 750 ml double-wall vacuum stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12 hours. A leak-proof screw cap helps prevent spills, while the integrated carry loop makes it easy to grab and go. Weighing 380 g, it fits most car cup holders. The lid is dishwasher-safe, and the bottle comes in five colours.",
+      "at": "2026-09-13T08:09:11.491Z"
+    },
+    "gpt-5.6-sol#40": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever the day takes you with the Kestrel 750 insulated water bottle. Its 750 ml double-wall vacuum stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a convenient carry loop, while the streamlined bottle fits most car cup holders. Weighing just 380 g, it’s easy to take on commutes, workouts, or adventures. The lid is dishwasher-safe, and the bottle comes in five colours.",
+      "at": "2026-09-13T08:09:11.656Z"
+    },
+    "gpt-5.6-sol#41": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever the day takes you with the Kestrel 750 insulated water bottle. Its 750 ml double-wall vacuum stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a convenient carry loop, while the streamlined shape fits most car cup holders. Weighing just 380 g, it’s easy to take anywhere. The lid is dishwasher-safe, and the bottle comes in five colours.",
+      "at": "2026-09-13T08:09:19.420Z"
+    },
+    "gpt-5.6-sol#42": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever the day takes you with the Kestrel 750 insulated water bottle. Its 750 ml double-wall vacuum stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a convenient carry loop, while the streamlined shape fits most car cup holders. Weighing just 380 g, it’s easy to take anywhere. The lid is dishwasher-safe for simple cleaning, and five colours let you choose your perfect match.",
+      "at": "2026-09-13T08:09:25.274Z"
+    },
+    "gpt-5.6-sol#44": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Meet the Kestrel 750, a dependable insulated water bottle for commutes, workouts and everyday adventures. Its 750 ml double-wall vacuum stainless-steel body keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a handy carry loop, while the streamlined shape fits most car cup holders. Weighing just 380 g, it’s easy to take anywhere. The lid is dishwasher-safe, and the bottle is available in five colours.",
+      "at": "2026-09-13T08:09:26.690Z"
+    },
+    "gpt-5.6-sol#43": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Meet the Kestrel 750, a durable insulated bottle designed for everyday hydration. Its 750 ml double-wall vacuum stainless steel body keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a convenient carry loop, while the slim shape fits most car cup holders. Weighing just 380 g, it’s easy to take anywhere. The lid is dishwasher-safe for simple cleaning, and the bottle is available in five colours.",
+      "at": "2026-09-13T08:09:26.917Z"
+    },
+    "gpt-5.6-sol#45": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever the day takes you with the Kestrel 750 insulated water bottle. Its 750 ml, double-wall vacuum stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a handy carry loop, while the streamlined bottle fits most car cup holders. Weighing just 380 g, it’s easy to take anywhere. The lid is dishwasher-safe, and five colours let you choose your favourite.",
+      "at": "2026-09-13T08:09:33.692Z"
+    },
+    "gpt-5.6-sol#46": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever the day takes you with the Kestrel 750 insulated water bottle. Its 750 ml double-wall vacuum stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap has a convenient carry loop, while the streamlined bottle fits most car cup holders. Weighing just 380 g, it’s easy to take anywhere. The lid is dishwasher-safe for simple cleaning, and five colours let you choose your favourite.",
+      "at": "2026-09-13T08:09:41.510Z"
+    },
+    "gpt-5.6-sol#47": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever the day takes you with the Kestrel 750 insulated water bottle. Its 750 ml double-wall vacuum stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a handy carry loop, while the slim shape fits most car cup holders. Weighing just 380 g, it is easy to take anywhere. The lid is dishwasher-safe, and the bottle comes in five colours.",
+      "at": "2026-09-13T08:09:42.480Z"
+    },
+    "gpt-5.6-sol#48": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever the day takes you with the Kestrel 750 insulated water bottle. Its 750 ml double-wall vacuum stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a convenient carry loop, while the bottle fits most car cup holders for easy travel. Weighing just 380 g, it is practical for everyday use. The lid is dishwasher-safe, and the bottle comes in five colours.",
+      "at": "2026-09-13T08:09:43.040Z"
+    },
+    "gpt-5.6-sol#49": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever you go with the Kestrel 750 insulated water bottle. Its 750 ml double-wall vacuum stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap includes a convenient carry loop, while the streamlined shape fits most car cup holders. Weighing just 380 g, it is easy to take along every day. The lid is dishwasher-safe, and the bottle comes in five colours.",
+      "at": "2026-09-13T08:09:47.263Z"
+    },
+    "claude-sonnet-5-original#1": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Slide the Kestrel 750 into your bag and forget it's there until you need it—24 hours later it's still delivering ice-cold water, or 12 hours on if you filled it with coffee instead. Double-wall vacuum stainless steel does the heavy lifting behind that performance, while a leak-proof screw cap with built-in carry loop means you can clip it, toss it, or stash it without worry. At 380 g and sized to slide into most car cup holders, it moves with you easily. The lid pops into the dishwasher when it's time to clean up. Five colours available.",
+      "at": "2026-09-13T08:09:48.543Z"
+    },
+    "claude-sonnet-5-original#2": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "A steel wall filled with vacuum instead of air is the whole trick: 750 ml stay cold for a full day or hot for twelve hours, whether that's ice water at noon or coffee at dawn. The screw cap won't drip in your bag, and the carry loop means one finger does the job of a hand. At 380 g it rides easily in a car cup holder, and when things get messy, the lid alone goes straight into the dishwasher. Five colours, one build quality.",
+      "at": "2026-09-13T08:09:49.229Z"
+    },
+    "gpt-5.6-sol#50": {
+      "arm": "gpt-5.6-sol",
+      "prompt": "plain",
+      "model": "gpt-5.6-sol",
+      "text": "Stay refreshed wherever the day takes you with the Kestrel 750 insulated water bottle. Its 750 ml double-wall vacuum stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12. The leak-proof screw cap features a convenient carry loop, while the bottle fits most car cup holders. Weighing just 380 g, it’s easy to take on commutes, workouts, or adventures. The lid is dishwasher-safe, and the bottle comes in five colours.",
+      "at": "2026-09-13T08:09:53.594Z"
+    },
+    "claude-sonnet-5-original#4": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Ice survives a full day inside the Kestrel 750's double-wall vacuum steel shell, while coffee stays drinkable for 12 hours—no extra sleeve or jacket required. The 750 ml capacity slides into standard car cup holders and still leaves room for actual liquid, not just half-melted cubes. A leak-proof screw cap with an integrated carry loop means it survives tossed bags and bumpy commutes, and when it's time to clean up, the lid goes straight into the dishwasher. At 380 g, it adds almost nothing to your pack. Five colours available.",
+      "at": "2026-09-13T08:09:54.640Z"
+    },
+    "claude-sonnet-5-original#5": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "380 grams of double-wall stainless steel stand between your coffee and the meeting that runs three hours long. The Kestrel 750 holds its ground: 24 hours cold, 12 hours hot, no fading in between. A screw cap seals tight enough to toss in a bag without a second thought, with a loop for clipping onto whatever you're carrying. Slides into car cup holders without a fight. The lid comes apart for the dishwasher when things get messy. Five colours, 750 ml, one bottle that outlasts the day you packed it for.",
+      "at": "2026-09-13T08:09:55.378Z"
+    },
+    "claude-sonnet-5-original#3": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Cold at hour twenty-four. Hot at hour twelve. That's the promise behind the Kestrel 750's double-wall vacuum steel construction, holding 750 ml of whatever keeps you moving. At 380 g it won't weigh down a bag, and the leak-proof screw cap with carry loop means you can clip it, toss it, or stand it upright in nearly any car cup holder without worry. Rinse the whole thing, but let the dishwasher handle the lid. Five colours, one bottle that just keeps working.",
+      "at": "2026-09-13T08:09:55.981Z"
+    },
+    "claude-sonnet-5-original#6": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Slide the Kestrel 750 into a cup holder and forget it's there until you need it — ice still rattling twenty-four hours later, coffee still steaming after twelve. The double-wall vacuum stainless steel does the quiet work while a leak-proof screw cap and built-in carry loop handle the rest, whether that's tossed in a bag or clipped to a pack. At 380 grams empty, it carries 750 ml without weighing down your day. The lid comes apart for the dishwasher; the body just needs a rinse. Five colours, one bottle that earns its spot on your desk, in your car, and on the trail.",
+      "at": "2026-09-13T08:09:59.579Z"
+    },
+    "claude-sonnet-5-original#7": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Twelve hours of hot coffee, a full day of cold water, and none of the sweat rings on your desk—that's the deal with the Kestrel 750. Double-wall vacuum stainless steel holds 750 ml and shrugs off temperature for 24 hours cold, 12 hot. The screw cap won't drip in your bag, and the built-in loop makes it easy to clip to a pack. At 380 g it's light enough for daily carry, slides into standard car cup holders, and the lid pops right into the dishwasher. Choose from five colours.",
+      "at": "2026-09-13T08:09:59.963Z"
+    },
+    "claude-sonnet-5-original#8": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Double-walled stainless steel and a vacuum core turn the Kestrel 750 into a small climate zone for your drink: ice-cold for 24 hours, still steaming after 12. The 750 ml body slips into nearly any car cup holder, while the screw cap seals tight against leaks and carries a loop for clipping onto a bag. At 380 g it barely registers in hand, and the lid lifts out for an easy dishwasher cycle. Five colours are available for whoever wants their bottle to match more than just their thermos habits.",
+      "at": "2026-09-13T08:10:00.661Z"
+    },
+    "claude-sonnet-5-original#9": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Ice stays ice for a full 24 hours; coffee stays worth drinking for 12. That's the trick of the Kestrel 750's double-wall vacuum steel, packed into a 380 g shell that slides into almost any car cup holder without a fight. The screw cap seals tight enough to toss in a bag sideways, plus a loop for clipping onto whatever you're carrying. Lid comes apart for the dishwasher; body just needs a rinse. Pick from five colours and stop thinking about your drink until you're actually thirsty.",
+      "at": "2026-09-13T08:10:01.858Z"
+    },
+    "claude-sonnet-5-original#10": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Somewhere between a thermos and a sidekick sits the Kestrel 750: 750 ml of double-wall vacuum stainless steel that holds cold at 24 hours and heat at 12, no matter what's on your calendar. The screw cap locks tight against leaks and swings out a loop for clipping onto bags, belts, or carabiners. Slim enough for car cup holders, light enough at 380 g to forget you're carrying it. Dishwasher-safe lid, five colours to choose from. Fill it once, stop thinking about it.",
+      "at": "2026-09-13T08:10:04.346Z"
+    },
+    "claude-sonnet-5-original#11": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Somewhere between a cross-country flight and a sweaty trail run, the Kestrel 750 quietly does its job: double-wall vacuum stainless steel holding drinks cold for a full 24 hours, hot for 12, no fuss involved. The 750 ml capacity slides into nearly any car cup holder, and at 380 g it won't drag down a bag. A leak-proof screw cap with a built-in carry loop means it clips on and travels easy, while the lid pops straight into the dishwasher for cleanup. Available in five colours.",
+      "at": "2026-09-13T08:10:05.064Z"
+    },
+    "claude-sonnet-5-original#12": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Ice at noon, still ice at midnight—the Kestrel 750 holds cold for a full 24 hours and keeps coffee drinkable for 12, thanks to double-wall vacuum stainless steel that does the work silently. 750 ml fits into nearly any car cup holder, and at 380 g it disappears into a bag without adding bulk. The screw cap seals tight against leaks and carries a loop for clipping onto gear, while the lid lifts out for an easy dishwasher cycle. Available in five colours.",
+      "at": "2026-09-13T08:10:06.767Z"
+    },
+    "claude-sonnet-5-original#13": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Steel on the outside, vacuum on the inside: that's how the Kestrel 750 holds a chill for 24 hours or lets your coffee stay drinkable past noon. The 750 ml double-wall build weighs a modest 380 g, slides into nearly any car cup holder, and won't sweat all over your desk. A screw cap with a built-in carry loop keeps things sealed tight whether it's tossed in a bag or clipped to one. Only the lid needs the dishwasher; the rest just needs a rinse. Five colours, zero excuses to reach for plastic.",
+      "at": "2026-09-13T08:10:07.206Z"
+    },
+    "claude-sonnet-5-original#15": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Ice stays ice for a full day, coffee stays scalding for half of one—that's the promise packed into the Kestrel 750's double-wall vacuum steel shell. At 750 ml and 380 g, it's substantial without being a burden, slipping into car cup holders without a fight. The screw cap won't drip in your bag, thanks to a genuinely leak-proof seal, and the attached loop makes clipping it to a pack effortless. Toss the lid in the dishwasher when it's grimy. Five colours mean it won't look like everyone else's.",
+      "at": "2026-09-13T08:10:10.691Z"
+    },
+    "claude-sonnet-5-original#17": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Ice doesn't stand a chance against 24 hours of double-wall vacuum steel, and neither does a losing streak of lukewarm coffee, which stays hot for 12. The 750 ml capacity slides into car cup holders without a fight, while the screw cap locks tight enough to survive a backpack tumble, carry loop included. At 380 g, it won't weigh down a bag or an argument about gear minimalism. Toss the lid in the dishwasher when things get messy. Five colours, zero excuses for another sad, sweaty bottle.",
+      "at": "2026-09-13T08:10:13.192Z"
+    },
+    "claude-sonnet-5-original#16": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "A day and a half of temperature, in your hand: the Kestrel 750 holds 750 ml behind double-wall vacuum stainless steel, running cold for 24 hours or hot for 12 without a hint of sweat on the outside. Screw the leak-proof cap shut, sling it by the built-in carry loop, and drop it straight into a car cup holder without a fight. At 380 g it barely registers in a bag, and the lid skips handwashing entirely—dishwasher-safe, always. Five colours, one bottle that outlasts the workday, the trail, and whatever's left in it.",
+      "at": "2026-09-13T08:10:13.534Z"
+    },
+    "claude-sonnet-5-original#14": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Slip the Kestrel 750 into a cup holder and forget about it for a day—ice stays intact for 24 hours, coffee stays scalding for 12, thanks to double-wall vacuum stainless steel doing the quiet work. At 380 g it barely registers in a bag, while the screw cap seals tight enough to survive a tumble in the trunk, with a loop for clipping onto whatever you're carrying. Wash the lid in the dishwasher, rinse the body by hand, and pick from five colours that don't scream \"gym bag.\" 750 ml, built for the long haul.",
+      "at": "2026-09-13T08:10:13.706Z"
+    },
+    "claude-sonnet-5-original#18": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Slide it into a cup holder and forget about it for a day. The Kestrel 750 holds 750 ml behind double-wall vacuum stainless steel, so cold drinks stay cold for 24 hours and coffee stays hot for 12. A leak-proof screw cap with a built-in carry loop means it can ride in a bag without worry, and the lid pops into the dishwasher when it's time to clean up. At 380 g, it's light enough for daily carry, and it comes in five colours to match whoever's grabbing it.",
+      "at": "2026-09-13T08:10:16.377Z"
+    },
+    "claude-sonnet-5-original#19": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Twenty-four hours cold, twelve hours hot, and 750 ml of room to make either one worthwhile. The Kestrel 750 builds its temperature control into double-wall vacuum stainless steel, then wraps it in a body slim enough for a standard cup holder—no wrestling it out at the drive-through. A leak-proof screw cap with a carry loop means it survives the bottom of a bag, and at 380 g it won't weigh that bag down. Lid comes apart clean for the dishwasher. Five colours, one bottle that just keeps working.",
+      "at": "2026-09-13T08:10:18.703Z"
+    },
+    "claude-sonnet-5-original#20": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Somewhere between morning coffee and the drive home, the Kestrel 750 just keeps working. Double-wall vacuum steel holds 750 ml and stretches a single fill across a whole day—24 hours cold, 12 hours hot, no fuss required. The screw cap seals tight enough to toss in a bag without worry, with a loop for clipping on or carrying by hand. At 380 g it barely registers, and the base slides into standard car cup holders without a squeeze. Lid comes apart for the dishwasher. Five colours, one bottle that earns its spot in the rotation.",
+      "at": "2026-09-13T08:10:20.021Z"
+    },
+    "claude-sonnet-5-original#22": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Ice survives a full day in the Kestrel 750's double-wall vacuum steel body, while coffee stays scalding for 12 hours—same bottle, same 750 ml capacity, no compromise between the two. At 380 g it won't weigh down a bag, and the screw cap seals tight enough to toss in with your gym clothes without a second thought, its loop ready for a carabiner or two fingers. Slide it into almost any car cup holder without a fight. Wash the lid in the dishwasher, choose from five colours, and get back to whatever you were doing.",
+      "at": "2026-09-13T08:10:22.459Z"
+    },
+    "claude-sonnet-5-original#21": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Grab it cold at dawn, and it's still cold well past midnight—24 hours, thanks to double-wall vacuum stainless steel doing the quiet work inside 750 ml of capacity. Coffee drinkers get 12 hours of heat retention on the flip side. A screw cap seals tight against leaks and carries a loop for clipping to bags or fingers alike. At 380 g, it slips into car cup holders without fuss, and when the lid needs cleaning, the dishwasher handles it. Five colours available.",
+      "at": "2026-09-13T08:10:23.207Z"
+    },
+    "claude-sonnet-5-original#23": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Slide the Kestrel 750 into a car cup holder and forget about it for the day—double-wall vacuum stainless steel keeps whatever's inside cold for 24 hours or hot for 12, no fuss required. At 380 g it barely registers in a bag, while the leak-proof screw cap and carry loop mean you can clip it on and go without worrying about spills. Cleanup is simple too, since the lid handles a dishwasher cycle just fine. Available in five colours, with 750 ml of capacity for whatever the day throws at you.",
+      "at": "2026-09-13T08:10:24.038Z"
+    },
+    "claude-sonnet-5-original#24": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Cold snaps stay cold for a full day; coffee stays worth drinking for twelve hours. That's the promise inside the Kestrel 750's double-wall vacuum steel shell, built to hold 750 ml without adding bulk to your bag. A screw cap seals tight against spills and clips on with a loop for easy carrying, while the slim base slides into car cup holders without a fight. At 380 g it barely registers on your shoulder, and the lid pops into the dishwasher when it's had enough adventures. Choose from five colours.",
+      "at": "2026-09-13T08:10:25.338Z"
+    },
+    "claude-sonnet-5-original#25": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Ice stays ice for a full day, coffee stays scalding for half of one—that's the promise packed into 750 ml of double-wall vacuum stainless steel. The Kestrel 750 slips into car cup holders without complaint and tips the scale at just 380 g, so it rides along in a bag or a hand without announcing itself. A screw cap with a built-in carry loop seals tight enough to trust upside down in a backpack, and when cleanup time comes, that same lid goes straight into the dishwasher. Five colours, zero compromises.",
+      "at": "2026-09-13T08:10:28.210Z"
+    },
+    "claude-sonnet-5-original#26": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Grab it cold at dawn, still cold at midnight—that's the quiet trick of the Kestrel 750. Double-wall vacuum stainless steel holds the line for 24 hours on ice water and 12 on coffee, while a 750 ml capacity means fewer refills during long days out. At 380 g it won't weigh down a bag, and the leak-proof screw cap, complete with a carry loop, slides into most car cup holders without a fight. The lid lifts out for dishwasher cleaning. Choose from five colours and let one bottle handle every temperature you throw at it.",
+      "at": "2026-09-13T08:10:29.808Z"
+    },
+    "claude-sonnet-5-original#27": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "A 750 ml shell of double-wall vacuum stainless steel stands between your drink and the outside world, holding cold at 24 hours and heat at 12. The screw cap seals tight enough to toss in a bag without a second thought, with a loop for clipping on or carrying by finger. At 380 g it's light in hand, slim enough for car cup holders, and easy to live with day to day—just pop the lid in the dishwasher when it needs a refresh. Five colours available, so it can look the part too.",
+      "at": "2026-09-13T08:10:30.170Z"
+    },
+    "claude-sonnet-5-original#28": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Twenty-four hours cold, twelve hours hot, and still ready to slide into your car's cup holder without a fight—that's the Kestrel 750 in a nutshell. Double-wall vacuum stainless steel does the heavy lifting inside a shell that weighs just 380 g, so you barely notice it's there until you need it. The screw cap won't leak on you, and the carry loop makes it easy to clip on or grab with one hand. Pick from five colours, toss the lid in the dishwasher, and get back to your day.",
+      "at": "2026-09-13T08:10:30.281Z"
+    },
+    "claude-sonnet-5-original#30": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "A steel shell built from double-wall vacuum insulation holds 750 ml and keeps ice intact for a full day, or coffee steaming for twelve hours, whichever the morning calls for. The screw cap seals tight against leaks and carries a loop for clipping to a bag or belt, while the slim profile slides into nearly any car cup holder without a fight. At 380 g, it rides light in a backpack, and the lid lifts out for an easy trip through the dishwasher. Five colours let it match your gear or stand apart from it.",
+      "at": "2026-09-13T08:10:35.767Z"
+    },
+    "claude-sonnet-5-original#31": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "A 750 ml shell of double-wall vacuum stainless steel stands between your coffee and the mid-morning chill, holding heat for 12 hours and cold for a full day. The screw cap seals tight enough to toss in a bag without worry, with a loop for clipping on or carrying by finger. At 380 g it slips into most car cup holders without a fight, and the lid comes apart easily for a spin through the dishwasher. Five colors, one refill routine you'll actually stick to.",
+      "at": "2026-09-13T08:10:36.393Z"
+    },
+    "claude-sonnet-5-original#32": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Some bottles just hold liquid; the Kestrel 750 holds its ground for a full day. Double-wall vacuum stainless steel keeps ice intact through a 24-hour stretch, or lets coffee stay drinkable up to 12 hours in, no reheating required. At 750 ml and 380 g, it slides into car cup holders without a fight and clips onto a bag via the built-in carry loop. The screw cap seals tight enough to trust upside down in a backpack, and its dishwasher-safe lid means less scrubbing later. Five colours, one dependable companion.",
+      "at": "2026-09-13T08:10:36.620Z"
+    },
+    "claude-sonnet-5-original#29": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Under the hood, the Kestrel 750 relies on a simple physics trick—double-wall vacuum stainless steel—to hold 750 ml at drinkable temperatures far longer than you'd expect: cold survives 24 hours, hot lasts 12. Nothing about daily use gets complicated. The screw cap seals tight enough to toss in a bag without worry, with a loop for clipping on or carrying by finger. At 380 g it disappears into most car cup holders without a fight, and when things get messy, the lid alone goes straight into the dishwasher. Five colours, no fuss.",
+      "at": "2026-09-13T08:10:37.743Z"
+    },
+    "claude-sonnet-5-original#33": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "A steel shell built for temperature extremes, the Kestrel 750 holds 750 ml and pulls double duty: ice-cold sips for 24 hours, steaming ones for 12, thanks to a vacuum-sealed double wall. The screw cap won't drip in your bag, and a built-in loop makes clipping it to a pack effortless. At 380 g it's light enough for daily carry, slim enough for car cup holders, and the lid lifts out for easy dishwasher cleanup. Five colours are available, so grabbing the wrong bottle at the office is no longer an excuse.",
+      "at": "2026-09-13T08:10:41.588Z"
+    },
+    "claude-sonnet-5-original#34": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Ice cubes still rattling after a full day in the Kestrel 750—that's the point of double-wall vacuum stainless steel done right. Pour in coffee before sunrise and it's still sipping-hot twelve hours later; fill it with water and forget about it, cold persists for 24. The screw cap won't betray you in a bag, thanks to a genuine leak-proof seal, and the attached loop makes carrying effortless. At 380 g and sized for cup holders everywhere, it travels well. Five colors, one dishwasher-safe lid, zero excuses.",
+      "at": "2026-09-13T08:10:42.643Z"
+    },
+    "claude-sonnet-5-original#35": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Twenty-four hours cold, twelve hours hot, and one 750 ml shell built from double-wall vacuum stainless steel to make both happen without condensation puddling on your desk. The screw cap seals tight against leaks and carries a loop for clipping to a bag, while the slim profile slides into nearly any car cup holder without a fight. At 380 g, it rides easily in a backpack side pocket. Toss the lid in the dishwasher when it needs cleaning. Five colours available, so grabbing the wrong bottle at the office stops being an issue.",
+      "at": "2026-09-13T08:10:43.398Z"
+    },
+    "claude-sonnet-5-original#36": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Ice survives a full day inside the Kestrel 750's double-wall vacuum steel, while coffee stays drinkable for twelve hours if mornings move slower than planned. The 750 ml capacity slides into car cup holders without a fight, and at 380 g it barely registers in a bag. A leak-proof screw cap with a built-in carry loop means less babysitting your bag's contents; the lid lifts off for dishwasher cleaning whenever life gets messy. Five colours are available, none of them boring, all of them ready for whatever temperature battle comes next.",
+      "at": "2026-09-13T08:10:44.643Z"
+    },
+    "claude-sonnet-5-original#37": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Under the double-wall steel skin of the Kestrel 750, 24 hours of cold and 12 of heat hold steady, whether it's ice water at noon or coffee at dawn. The 750 ml capacity slides into nearly any car cup holder without a fight, and at 380 g it barely registers in a bag. A screw cap with a built-in carry loop seals tight against spills and clips easily to a pack; the lid lifts out for dishwasher cleaning while the body prefers a quick hand rinse. Pick from five colours and let temperature stop being something you think about.",
+      "at": "2026-09-13T08:10:48.565Z"
+    },
+    "claude-sonnet-5-original#38": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Slide the Kestrel 750 into your car's cup holder and forget about it for a while—24 hours later, that cold brew is still cold; leave hot coffee inside and it stays sippable for 12. Double-wall vacuum stainless steel does the work quietly, without adding bulk: the whole thing weighs just 380 g. The screw cap seals tight against leaks and carries a loop for clipping to a bag. Toss the lid in the dishwasher when it's grubby. Five colours, 750 ml, one bottle that keeps up with wherever you're headed.",
+      "at": "2026-09-13T08:10:48.663Z"
+    },
+    "claude-sonnet-5-original#39": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Fill it once and forget about temperature for the rest of the day. The Kestrel 750 holds 750 ml inside double-wall vacuum stainless steel, holding cold drinks for a full 24 hours and hot ones for 12, so coffee at dawn is still warm by lunch. A leak-proof screw cap with a built-in carry loop makes it easy to clip on a bag, and the shape slides into nearly any car cup holder without a fight. At just 380 g, it travels light, and the lid lifts out for the dishwasher when things get messy. Available in five colours.",
+      "at": "2026-09-13T08:10:49.011Z"
+    },
+    "claude-sonnet-5-original#40": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "A steel shell built for extremes, the Kestrel 750 holds its ground at 750 ml, keeping ice intact for a full day and coffee steaming past noon thanks to double-wall vacuum insulation. The screw cap seals tight against spills, with a loop for clipping to a bag or finger. At 380 g, it slides into car cup holders without a fight, and the lid rides out dishwasher cycles unbothered. Five colours are available, so whichever one you grab, the bottle just does its job quietly.",
+      "at": "2026-09-13T08:10:50.640Z"
+    },
+    "claude-sonnet-5-original#42": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "A 750 ml shell of double-wall vacuum stainless steel stands between your drink and the outside world, holding cold at 24 hours and heat at 12. The screw cap seals tight enough to toss in a bag without a second thought, with a loop for clipping on wherever you're headed, and the whole thing slides into a standard car cup holder without a fight. At 380 g it barely registers in hand, and the lid rinses clean in the dishwasher when the day's done. Choose from five colours.",
+      "at": "2026-09-13T08:10:54.344Z"
+    },
+    "claude-sonnet-5-original#44": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Steel and vacuum space do the quiet work here: 24 hours cold, 12 hours hot, no ice required by dinner. The Kestrel 750 holds 750 ml in double-wall stainless steel, weighs a manageable 380 g, and slides into nearly any car cup holder without a fight. A screw cap with a carry loop seals tight against leaks and clips onto a bag when your hands are full. The lid lifts off for the dishwasher; the body prefers a quick rinse. Five colours, one bottle that just keeps drinks where you left them, temperature-wise.",
+      "at": "2026-09-13T08:10:55.706Z"
+    },
+    "claude-sonnet-5-original#43": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Twenty-four hours of cold, twelve of hot, all from 750 ml of double-wall vacuum stainless steel that shrugs off temperature swings without breaking a sweat on the outside. The screw cap seals tight enough to toss in a bag without worry, and the attached loop makes it easy to clip on or carry one-handed. At 380 g it's light on the shoulder yet substantial in hand, and the shape slides into car cup holders without a fight. Cleanup is simple since the lid goes straight into the dishwasher. Choose from five colours to match your gear or your mood.",
+      "at": "2026-09-13T08:10:56.247Z"
+    },
+    "claude-sonnet-5-original#41": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Grab the Kestrel 750 and forget about lukewarm compromises. Under the hood: double-wall vacuum stainless steel that locks in cold for 24 hours, heat for 12, no matter what your day throws at it. The 750 ml capacity hits the sweet spot between refill trips and dead weight, and at 380 g it barely registers in a bag. A leak-proof screw cap with a carry loop means one-handed hikes, gym bags, and car cup holders (yes, it fits) are all fair game. Toss the lid in the dishwasher when you're done. Five colours, zero excuses.",
+      "at": "2026-09-13T08:10:58.331Z"
+    },
+    "claude-sonnet-5-original#45": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Steel walls, vacuum-sealed, carry a temperature promise most bottles can't: ice-cold sips 24 hours on, coffee still steaming after 12. The 750 ml build slides into car cup holders without a fight, and at 380 g it won't drag down a bag. A screw cap seals tight against leaks and swings on a loop for hooking to a pack or finger. Only the lid needs the dishwasher; the body prefers a rinse. Choose from five colours and let the Kestrel 750 outlast the itinerary, not just the morning commute.",
+      "at": "2026-09-13T08:10:59.434Z"
+    },
+    "claude-sonnet-5-original#47": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Ice at hour twenty-four, still ice. Coffee at hour twelve, still worth drinking. The Kestrel 750 pulls this off with double-wall vacuum stainless steel wrapped around a 750 ml core, sealed by a screw cap that won't drip in your bag and won't slip off a carry loop when your hands are full. Slide it into almost any car cup holder without a fight. At 380 g it disappears in a backpack; the lid alone goes in the dishwasher when things get messy. Five colours, zero excuses.",
+      "at": "2026-09-13T08:11:01.663Z"
+    },
+    "claude-sonnet-5-original#46": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Slide the Kestrel 750 into your bag and forget about ice packs. Double-wall vacuum stainless steel holds 750 ml and keeps ice intact for a full day, or coffee steaming for twelve hours, whichever the morning calls for. The screw cap seals tight enough to survive a gym bag tumble, with a loop for clipping onto a backpack. At 380 g it's light enough for daily carry, slim enough for car cup holders, and the lid pops into the dishwasher when it's had enough hand-washing. Choose from five colours.",
+      "at": "2026-09-13T08:11:02.059Z"
+    },
+    "claude-sonnet-5-original#48": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Ice stays ice for a full day, coffee stays scalding for half of one—that's the trick of the double-wall vacuum steel packed into this 750 ml frame. At 380 g it rides light in a bag or slides into nearly any car cup holder without a fight. The screw cap seals tight enough to toss in a backpack sideways, and its built-in loop hooks onto a carabiner or finger with equal ease. Rinse the lid in the dishwasher when it gets grimy. Five colours available, so grabbing the wrong bottle at the gym stops being an issue.",
+      "at": "2026-09-13T08:11:04.724Z"
+    },
+    "claude-sonnet-5-original#49": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Slide a Kestrel 750 into your bag and forget about temperature altogether. Double-wall vacuum stainless steel holds ice water at 24 hours, coffee at 12, without sweating on your desk or your palm. The screw cap seals tight against leaks and carries a loop for clipping to a pack, while the slim 380 g build slots into nearly any car cup holder. Toss the lid in the dishwasher when it needs cleaning. Five colours are available, so grabbing the right one off a shelf, or a teammate's bag, takes no guesswork.",
+      "at": "2026-09-13T08:11:06.032Z"
+    },
+    "claude-sonnet-5-original#50": {
+      "arm": "claude-sonnet-5-original",
+      "prompt": "original",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Some bottles just hold liquid; the Kestrel 750 holds temperature. Double-wall vacuum stainless steel locks cold drinks in for a full 24 hours and keeps coffee steaming for 12, whether it's sitting on a desk or bouncing around in a bag. The 750 ml capacity slides neatly into standard car cup holders, and at 380 g it barely registers on your shoulder strap. A leak-proof screw cap with an integrated carry loop means fewer spills and easier grabbing, plus the lid tosses right into the dishwasher. Choose from five colours.",
+      "at": "2026-09-13T08:11:08.045Z"
+    },
+    "claude-sonnet-5-batch#2": {
+      "arm": "claude-sonnet-5-batch",
+      "prompt": "batch",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Keep your coffee hot until lunch and your water cold until dinner. The Kestrel 750 uses double-wall vacuum stainless steel to lock in temperature for 24 hours cold or 12 hours hot, all inside a 750 ml body that weighs just 380 g. The leak-proof screw cap includes a carry loop for clipping onto bags, and the bottle slides easily into most car cup holders. Choose from five colours, and toss the dishwasher-safe lid in with the dishes whenever it needs a refresh.\n\n---\n\n380 grams. That's the entire weight of the Kestrel 750, yet it holds 750 ml and outperforms bottles twice its size. Double-wall vacuum insulation keeps cold drinks cold for a full 24 hours and hot drinks hot for 12. The screw-on cap seals tight against leaks and doubles as a carry loop for easy transport. It's sized to fit most car cup holders, available in five colours, and the lid can go straight into the dishwasher for effortless cleaning.\n\n---\n\nWhether you're commuting, hiking, or just getting through a long workday, the Kestrel 750 keeps up. Its stainless steel double-wall vacuum construction maintains cold temperatures for 24 hours and hot ones for 12, all in a 750 ml capacity built for real use. A leak-proof screw cap with an integrated carry loop makes it easy to grab and go, while the compact design fits most car cup holders. Pick your favourite from five colours; the lid is dishwasher-safe for simple care.\n\n---\n\nInsulation that actually lasts. The Kestrel 750's double-wall vacuum stainless steel construction holds cold beverages at temperature for 24 hours and hot ones for 12, so your drink tastes right whenever you reach for it. At 750 ml and only 380 g, it's substantial without being bulky, and it slots neatly into most car cup holders. The screw cap seals securely against leaks and includes a carry loop for portability. Available in five colours, with a dishwasher-safe lid.\n\n---\n\nDesigned for anyone who's tired of lukewarm coffee. The Kestrel 750 traps heat with double-wall vacuum insulation, keeping drinks hot for 12 hours and cold for a full 24. Its 750 ml stainless steel body weighs a manageable 380 g and fits comfortably in most car cup holders for easy travel. The leak-proof screw cap comes with a built-in carry loop, so you can clip it to a bag or backpack. Five colours are available, and the lid cleans up easily in the dishwasher.\n\n---\n\nCold water at noon. Hot tea at midnight. The Kestrel 750 delivers both, thanks to double-wall vacuum stainless steel that locks in temperature for up to 24 hours cold or 12 hours hot. Holding 750 ml and weighing only 380 g, it's built to travel light. The leak-proof cap screws on securely and features a carry loop for hands-free carrying, while its slim shape fits most car cup holders. Choose from five colours; the lid is dishwasher-safe for quick cleanup.\n\n---\n\nBuilt from double-wall vacuum stainless steel, the Kestrel 750 is engineered to perform: 24 hours of cold retention, 12 hours of heat retention, and a 750 ml capacity that covers most of the day. It weighs 380 g, fits most car cup holders, and comes with a leak-proof screw cap featuring a convenient carry loop. Cleanup is simple since the lid is dishwasher-safe. Available in five colours to match your style, gear bag, or morning mood.\n\n---\n\nSome bottles just hold water. The Kestrel 750 holds temperature. With double-wall vacuum insulation, it keeps drinks cold for 24 hours and hot for 12, all packed into a durable 750 ml stainless steel shell weighing just 380 g. The leak-proof screw cap has a carry loop for easy transport, and the compact profile fits most car cup holders. Available in five colours, and when it's time to clean up, the lid goes straight into the dishwasher.\n\n---\n\nMeet the Kestrel 750: a 750 ml insulated bottle made from double-wall vacuum stainless steel. It keeps beverages cold for 24 hours or hot for 12, depending on what your day requires. At 380 g, it's light enough to carry anywhere, and its shape fits most car cup holders without a squeeze. The screw cap is leak-proof and includes a carry loop for convenience. Offered in five colours, with a lid that's fully dishwasher-safe.\n\n---\n\nTake the temperature control with you. The Kestrel 750's double-wall vacuum stainless steel construction keeps cold drinks cold for 24 hours and hot drinks hot for 12, no matter where the day takes you. It holds 750 ml, weighs 380 g, and fits most car cup holders for effortless commuting. A leak-proof screw cap with a carry loop keeps things secure and portable. Pick from five colours, and enjoy easy cleaning thanks to the dishwasher-safe lid.",
+      "at": "2026-09-13T08:11:24.241Z"
+    },
+    "claude-sonnet-5-batch#1": {
+      "arm": "claude-sonnet-5-batch",
+      "prompt": "batch",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Slip the Kestrel 750 into your bag and forget about it until you need it. Double-wall vacuum stainless steel locks in temperature, holding cold drinks for a full 24 hours and hot ones for 12. The 750 ml capacity covers a long workday or an afternoon hike without a refill. A leak-proof screw cap with a built-in carry loop makes it easy to clip on or grab in a hurry. At just 380 g, it fits most car cup holders and comes in five colours to match your style.\n\n---\n\nCold water at hour twenty-three still tastes like it did at hour one. That's the promise behind the Kestrel 750, an insulated bottle built with double-wall vacuum stainless steel for serious thermal retention. Hot coffee stays hot for 12 hours; cold brew stays cold for 24. The 750 ml body slots neatly into most car cup holders, while the leak-proof screw cap and carry loop keep spills and drops off your worry list. Lightweight at 380 g, dishwasher-safe lid, five colours to choose from.\n\n---\n\nStainless steel. Double-wall vacuum insulation. 750 ml capacity. These three specs are why the Kestrel 750 keeps beverages cold for 24 hours and hot for 12, no matter what your day throws at it. The screw-on cap seals tight against leaks and includes a loop for easy carrying, while the compact shape fits most car cup holders without a fight. Weighing only 380 g, it travels light. The lid pops right into the dishwasher for effortless cleanup, and it's available in five colours.\n\n---\n\nSome bottles look great on a shelf. The Kestrel 750 is built to actually work, day after day. Its double-wall vacuum stainless steel construction keeps cold drinks icy for 24 hours and hot drinks steaming for 12, whether you're commuting, hiking, or stuck in back-to-back meetings. The leak-proof screw cap has a sturdy carry loop, the 750 ml size fits most car cup holders, and at 380 g it won't weigh down your bag. Five colours, dishwasher-safe lid, zero compromises.\n\n---\n\nWhy settle for a bottle that loses its chill by lunchtime? The Kestrel 750 uses double-wall vacuum stainless steel to keep drinks cold for a full 24 hours or hot for 12, holding 750 ml so you can go longer between fills. A leak-proof screw cap with a built-in carry loop makes transport simple, and the bottle's shape was designed to fit most car cup holders. It weighs just 380 g, the lid cleans up in the dishwasher, and five colours are available to suit any taste.\n\n---\n\nBuilt for mornings that start early and days that run long, the Kestrel 750 pairs a 750 ml capacity with double-wall vacuum stainless steel insulation. Cold drinks stay cold for 24 hours; hot drinks stay hot for 12. The carry loop on the leak-proof screw cap means you can hook it to a bag or hold it one-handed, and its slim profile fits most car cup holders for easy trips. Light at 380 g, with a dishwasher-safe lid and five colours to pick from, it's ready wherever you are.\n\n---\n\nTemperature control, simplified: the Kestrel 750 relies on double-wall vacuum stainless steel to hold cold drinks at 24 hours and hot drinks at 12, all inside a 750 ml bottle sized for real use. Its screw cap seals leak-proof and includes a carry loop for quick grabbing, while the overall design fits most car cup holders without a squeeze. At 380 g it's easy to carry all day. Cleanup is simple too, since the lid is dishwasher-safe, and it comes in five colours.\n\n---\n\nA bottle that keeps up with your schedule, not the other way around. The Kestrel 750 holds 750 ml and uses double-wall vacuum stainless steel to keep drinks cold for 24 hours or hot for 12 hours straight. The leak-proof screw cap comes with a carry loop, so it clips onto bags or belt loops with ease, and the shape is sized to fit most car cup holders. Weighing only 380 g, it's built for daily carry, with a dishwasher-safe lid and five colour options to choose from.\n\n---\n\nIce cubes at hour twenty. Steam still rising at hour ten. That's the kind of performance the Kestrel 750 delivers, thanks to double-wall vacuum stainless steel construction and a 750 ml capacity built for real days. The leak-proof screw cap includes a carry loop for effortless transport, and the bottle fits most car cup holders without hassle. At 380 g, it's light enough for daily use, the lid is dishwasher-safe for quick cleaning, and five colours are available to match your gear.\n\n---\n\nWhether it's iced tea on a summer trail or hot tea on a winter commute, the Kestrel 750 handles both. Double-wall vacuum stainless steel keeps drinks cold for 24 hours and hot for 12, all packed into a 750 ml bottle that fits most car cup holders. The screw cap is leak-proof and comes with a carry loop for grabbing on the go, and the whole thing weighs just 380 g. The lid is dishwasher-safe, and five colours are available for anyone who wants form to match function.",
+      "at": "2026-09-13T08:11:24.939Z"
+    },
+    "claude-sonnet-5-batch#3": {
+      "arm": "claude-sonnet-5-batch",
+      "prompt": "batch",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Slide the Kestrel 750 into your bag and forget about temperature altogether. This 750 ml bottle uses double-wall vacuum stainless steel to hold cold drinks for a full 24 hours and hot ones for 12, so your coffee is still steaming at lunch. The screw cap seals tight against leaks and carries a loop for clipping onto packs. At 380 g, it fits neatly into most car cup holders. Choose from five colours to match your style.\n\n---\n\nSome bottles just sit in a cupboard. The Kestrel 750 gets used daily, and here's why: double-wall vacuum insulation keeps beverages cold for 24 hours, hot for 12, in a stainless steel body built to last. The leak-proof screw cap has an integrated carry loop, and the whole thing weighs a manageable 380 g. It slides into standard car cup holders without a fight. The lid comes apart for dishwasher cleaning. Pick from five colours.\n\n---\n\n380 grams. 750 milliliters. 24 hours cold, 12 hours hot. Those numbers define the Kestrel 750, a double-wall vacuum stainless steel bottle designed for people who don't want to think twice about hydration. The screw-on lid locks out leaks and includes a loop for easy carrying, while the compact shape fits most car cup holders without issue. Cleanup is simple since the lid is dishwasher-safe. Available in five colours to suit any bag or desk.\n\n---\n\nWhether it's iced coffee at 7 a.m. or hot tea at 7 p.m., the Kestrel 750 keeps pace. Its double-wall vacuum stainless steel construction locks in temperature for 24 hours cold or 12 hours hot, while the leak-proof screw cap with carry loop makes transport simple. Weighing just 380 g and sized to fit most car cup holders, this 750 ml bottle travels easily from car to desk to trail. The lid lifts off for dishwasher cleaning. Five colours available.\n\n---\n\nBuilt from double-wall vacuum stainless steel, the Kestrel 750 holds 750 ml and keeps drinks cold for 24 hours or hot for 12 — reliable insulation without the bulk. A leak-proof screw cap with a built-in carry loop makes it easy to grab and go, and at 380 g it won't weigh down your bag. It slots into most car cup holders for commutes and road trips alike. The lid is dishwasher-safe for effortless cleaning. Offered in five colours.\n\n---\n\nEver notice how most water bottles fail exactly when you need them most? The Kestrel 750 doesn't. Double-wall vacuum stainless steel keeps your drink cold for 24 hours or hot for 12, no matter how long the day runs. The screw cap seals leak-proof and doubles as a carry loop for one-handed transport. At 750 ml and 380 g, it's substantial but not heavy, and it fits most car cup holders. The lid is dishwasher-safe. Five colours to choose from.\n\n---\n\nInsulation, durability, convenience — the Kestrel 750 covers all three. Its double-wall vacuum stainless steel shell maintains cold drinks for 24 hours and hot ones for 12. A leak-proof screw cap with a carry loop keeps things secure whether it's in a bag, backpack, or hand. The 750 ml capacity weighs in at just 380 g and is shaped to fit most car cup holders. When it's time to clean, the lid goes straight into the dishwasher. Five colours available.\n\n---\n\nMeet the Kestrel 750: a 750 ml stainless steel bottle with double-wall vacuum insulation that keeps cold drinks cold for 24 hours and hot drinks hot for 12. It's designed around everyday use — a leak-proof screw cap with carry loop for easy transport, a shape that fits most car cup holders, and a lightweight 380 g build that won't strain your bag. Cleaning is easy too, since the lid is dishwasher-safe. Five colours let you pick your favourite.\n\n---\n\nCold brew stays cold. Herbal tea stays hot. That's the promise behind the Kestrel 750's double-wall vacuum stainless steel design, good for 24 hours of cold retention or 12 hours of heat. The leak-proof screw cap includes a carry loop for effortless portability, and the whole bottle weighs only 380 g. It's sized to fit most car cup holders for the daily commute. The lid comes apart easily for dishwasher cleaning. Available in five colours to match any routine.\n\n---\n\nNot all insulated bottles earn a permanent spot in your bag — the Kestrel 750 does. Made from double-wall vacuum stainless steel, it holds 750 ml and locks in temperature for 24 hours cold or 12 hours hot. The leak-proof screw cap comes with a carry loop, making it simple to grab on the way out the door. At 380 g, it's light enough for daily carry and fits neatly into most car cup holders. The lid is dishwasher-safe, and five colours are available.",
+      "at": "2026-09-13T08:11:29.043Z"
+    },
+    "claude-sonnet-5-batch#4": {
+      "arm": "claude-sonnet-5-batch",
+      "prompt": "batch",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Slip the Kestrel 750 into your bag and forget about temperature altogether. Its double-wall vacuum stainless steel shell locks in cold for a full 24 hours or holds hot drinks steady for 12, no matter what the day throws at it. The 750 ml capacity means fewer refills, while the leak-proof screw cap with its built-in carry loop makes transport simple. At 380 g, it's light enough for daily carry, and the dishwasher-safe lid keeps cleanup effortless. Choose from five colours.\n\n---\n\nCold coffee ruins mornings. The Kestrel 750 fixes that problem for good. Built with double-wall vacuum insulation and stainless steel construction, it keeps beverages cold for 24 hours or piping hot for 12 straight hours. The 750 ml bottle slides neatly into most car cup holders, so it travels with you from kitchen to commute without a second thought. A leak-proof screw cap with an attached carry loop adds convenience, and at just 380 g, the whole thing barely registers in your bag. Five colours available; lid is dishwasher-safe.\n\n---\n\n750 ml of capacity. 24 hours of cold retention. 12 hours of heat retention. 380 grams total weight. These numbers define the Kestrel 750, an insulated water bottle built from double-wall vacuum stainless steel for serious thermal performance. The screw-on cap seals tight against leaks and includes a loop for easy carrying, while the compact profile fits comfortably into most car cup holders. Cleanup is simple since the lid goes right in the dishwasher. Available in five colours to match your style.\n\n---\n\nWhether you're headed to the gym, the office, or a weekend hike, the Kestrel 750 keeps pace with your day. Its rugged double-wall vacuum stainless steel body holds cold drinks icy for 24 hours and hot drinks steaming for 12, so your beverage stays exactly how you like it. The leak-proof screw cap features a convenient carry loop, and the bottle's size was designed to fit most car cup holders without a squeeze. Light at 380 g, with a dishwasher-safe lid, in five colours.\n\n---\n\nSome water bottles claim insulation. The Kestrel 750 delivers it. Double-wall vacuum stainless steel construction means 24 hours of cold retention and 12 hours of heat retention, verified performance you can count on daily. The 750 ml capacity strikes a balance between generous volume and portability, weighing only 380 g overall. A leak-proof screw cap with an integrated carry loop prevents spills and simplifies transport, and it slots easily into most car cup holders. The lid is dishwasher-safe. Pick from five colours.\n\n---\n\nMeet your new everyday companion: the Kestrel 750. This insulated bottle combines double-wall vacuum stainless steel with a leak-proof screw cap, so drinks stay cold for 24 hours or hot for 12 without fuss. At 750 ml, it holds enough for a long commute or an afternoon at your desk, yet weighs just 380 g for effortless carrying. A built-in carry loop makes grab-and-go simple, and the design fits neatly into most car cup holders. The dishwasher-safe lid means less handwashing. Five colours to choose from.\n\n---\n\nWhy settle for lukewarm? The Kestrel 750 uses double-wall vacuum stainless steel to keep cold drinks cold for 24 hours and hot drinks hot for 12, turning ordinary hydration into something dependable. Its 750 ml body pairs with a leak-proof screw cap and carry loop for spill-free, easy transport, while a slim profile fits most car cup holders without a struggle. At only 380 g, it travels light. When it's time to clean, the lid is dishwasher-safe. Offered in five colours.\n\n---\n\nDesigned for people who don't want to think twice about their drink, the Kestrel 750 delivers consistent temperature control day after day. Its double-wall vacuum stainless steel shell keeps cold beverages cold for 24 hours and hot beverages hot for 12. The 750 ml size fits comfortably in most car cup holders, and a leak-proof screw cap with a carry loop makes it easy to grab on your way out the door. Weighing 380 g, it's practical and light, with a dishwasher-safe lid. Five colours available.\n\n---\n\nThe Kestrel 750 doesn't try to reinvent the water bottle. It just does the basics exceptionally well. Double-wall vacuum stainless steel insulation keeps drinks cold for 24 hours or hot for 12. A leak-proof screw cap with a carry loop prevents spills and makes it easy to sling over a bag or finger. The 750 ml capacity fits most car cup holders, and at 380 g, it won't weigh you down. The lid cleans up easily in the dishwasher. Five colours available to suit any style.\n\n---\n\nCold in the morning, hot by evening, the Kestrel 750 adapts to whatever you're drinking. Its double-wall vacuum stainless steel construction locks in temperature for 24 hours of cold or 12 hours of heat, holding steady through long days and longer commutes. The 750 ml capacity fits most car cup holders with room to spare, while the leak-proof screw cap and attached carry loop keep things secure and portable. It weighs a mere 380 g and the lid is dishwasher-safe. Available in five colours.",
+      "at": "2026-09-13T08:11:30.222Z"
+    },
+    "claude-sonnet-5-batch#5": {
+      "arm": "claude-sonnet-5-batch",
+      "prompt": "batch",
+      "model": "claude-haiku-4-5-20251001,claude-sonnet-5",
+      "text": "Slide the Kestrel 750 into your car's cup holder before the morning commute and forget about it until lunch — your coffee will still be steaming hot. Built from double-wall vacuum stainless steel, this 750 ml bottle locks in heat for 12 hours and cold for a full 24. The leak-proof screw cap includes a carry loop for clipping to a bag, and at just 380 g it barely adds weight. Choose from five colours, and toss the dishwasher-safe lid in with the dishes when you're done.\n\n---\n\nCold water at hour twenty-three still tastes like it did at hour one. That's the promise behind the Kestrel 750, a 750 ml stainless steel bottle with double-wall vacuum insulation designed for people who don't want to think about temperature loss. Hot drinks stay hot for 12 hours, cold ones stay cold for 24. The screw-on cap won't leak in your bag, and a built-in loop makes carrying effortless. Weighing only 380 g, it fits standard car cup holders and comes in five colours, with a dishwasher-safe lid.\n\n---\n\nInsulation, capacity, and convenience — the Kestrel 750 covers all three. Its 750 ml double-wall vacuum stainless steel construction keeps beverages cold for 24 hours or hot for 12, whether you're at your desk or on the trail. A leak-proof screw cap with an attached carry loop makes transport simple, while the compact design slides into most car cup holders without a fight. At 380 g, it's light enough for daily carry. Available in five colours, with a lid you can simply toss in the dishwasher.\n\n---\n\nSome bottles you buy for looks. The Kestrel 750 you buy because it works. Double-wall vacuum insulation in stainless steel holds cold drinks for 24 hours and hot ones for 12, no gimmicks required. The 750 ml capacity is generous without being bulky, and at 380 g it won't drag down your bag. A leak-proof screw cap with a carry loop keeps things simple, and the bottle fits most car cup holders. Five colours are available, and the lid goes straight into the dishwasher.\n\n---\n\nWhat does a good insulated bottle actually need to do? Keep your drink at temperature, not leak, and fit in your life — literally. The Kestrel 750 checks every box: double-wall vacuum stainless steel holds cold for 24 hours and hot for 12; the 750 ml size fits most car cup holders; the screw cap won't leak and has a carry loop built in. It weighs just 380 g, comes in five colours, and the lid is dishwasher-safe for easy cleanup after every use.\n\n---\n\n750 ml. 24 hours cold. 12 hours hot. 380 g. Those numbers tell you most of what you need to know about the Kestrel 750. The rest: double-wall vacuum stainless steel construction, a leak-proof screw cap with a carry loop, a shape that fits most car cup holders, and a dishwasher-safe lid that makes cleaning effortless. Five colours are available, so you can match it to your bag, your bike, or your mood. Simple engineering, reliable results, nothing extra to worry about.\n\n---\n\nLong meetings, longer hikes, road trips that never seem to end — the Kestrel 750 was made for the hours in between refills. Its double-wall vacuum stainless steel body keeps cold drinks cold for a full day and hot drinks hot for half of one, all within a 750 ml capacity that fits most car cup holders. The screw-on lid seals tight against leaks and includes a carry loop for easy handling. Weighing 380 g and available in five colours, it's finished with a dishwasher-safe lid for quick cleanup.\n\n---\n\nDurability meets everyday practicality in the Kestrel 750. Constructed from double-wall vacuum stainless steel, this 750 ml bottle is engineered to maintain cold temperatures for 24 hours and hot temperatures for 12, making it suitable for both summer hikes and winter commutes. Its leak-proof screw cap features an integrated carry loop, while the slim profile fits most standard car cup holders. Weighing only 380 g, the bottle is offered in five colours and includes a dishwasher-safe lid for straightforward, low-maintenance care.\n\n---\n\nYou reach for your bottle more than almost anything else you own, so it should just work. The Kestrel 750 does: 750 ml of double-wall vacuum stainless steel that holds cold for 24 hours, hot for 12, without fuss. The screw cap seals tight and won't leak in your bag, with a loop for easy carrying. It slides into most car cup holders and weighs a light 380 g. Pick from five colours, and when it's time to clean up, the lid goes right in the dishwasher.\n\n---\n\nForm follows function with the Kestrel 750. Every element — from the double-wall vacuum stainless steel shell to the leak-proof screw cap — exists to keep your drink at the right temperature for as long as possible: 24 hours cold, 12 hours hot, no exceptions. The 750 ml capacity strikes a practical balance between volume and portability, fitting neatly into most car cup holders at just 380 g. A built-in carry loop adds convenience, five colours add personality, and a dishwasher-safe lid adds ease.",
+      "at": "2026-09-13T08:11:50.393Z"
+    }
+  }
+}

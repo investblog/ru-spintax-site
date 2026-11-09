@@ -1,0 +1,10 @@
+{
+  "slug": "ru/spintax-bugs-you-only-see-at-scale",
+  "profile": "landscape",
+  "width": 1200,
+  "height": 630,
+  "template": "spintaxsite-og-landscape",
+  "alt": "Четырнадцать сломанных форм через шестнадцать версий движка: что движок spintax портит в готовом тексте и что меняет обновление в уже опубликованных страницах.",
+  "bytes": 97632,
+  "sha256": "7767d3a41cca4f80"
+}
